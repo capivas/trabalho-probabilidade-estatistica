@@ -1,0 +1,1601 @@
+track_id,artist_id,artist_name,track_name,duration_ms,release_year,top_year,explicit,album_type,artist_count
+track_0001,6LqNN22kT3074XbTVUrhzX,Kesha,TiK ToK,199693,2010,2010,False,album,1
+track_0002,32WkQRZEVKSzVAAYqukAEA,Lady A,Need You Now,236440,2010,2010,False,album,1
+track_0003,3FUY2gzHeIiaesXtOAdB7A,Train,"Hey, Soul Sister",216773,2010,2010,False,album,1
+track_0004,6jJ0s89eD6GaHleKKya26X,Katy Perry,California Gurls,234653,2012,2010,False,album,2
+track_0005,23zg3TcAtWQy7J6upgbUnj,USHER,OMG (feat. will.i.am),269493,2010,2010,False,album,2
+track_0006,5ndkK3dpZLKtBklKjxNQwT,B.o.B,Airplanes (feat. Hayley Williams of Paramore),180480,2010,2010,True,album,2
+track_0007,7dGJo4pcD2V6oG8kP0tJRR,Eminem,Love The Way You Lie,263373,2010,2010,True,album,2
+track_0008,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Bad Romance,294573,2009,2010,True,album,1
+track_0009,6MF9fzBmfXghAz953czmBC,Taio Cruz,Dynamite,202613,2010,2010,False,compilation,1
+track_0010,6MF9fzBmfXghAz953czmBC,Taio Cruz,Break Your Heart,201546,2010,2010,False,compilation,1
+track_0011,5ndkK3dpZLKtBklKjxNQwT,B.o.B,Nothin' on You (feat. Bruno Mars),268320,2010,2010,False,album,2
+track_0012,7qG3b048QCHVRO5Pv1T5lw,Enrique Iglesias,I Like It,231373,2010,2010,False,album,2
+track_0013,5OrB6Jhhrl9y2PK0pSV4VP,Young Money,BedRock,288133,2009,2010,True,album,2
+track_0014,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,In My Head,199026,2010,2010,False,album,1
+track_0015,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Rude Boy,222920,2009,2010,True,album,1
+track_0016,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Telephone,220640,2009,2010,False,album,2
+track_0017,6jJ0s89eD6GaHleKKya26X,Katy Perry,Teenage Dream,227760,2012,2010,False,album,1
+track_0018,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,Just the Way You Are,220734,2010,2010,False,album,1
+track_0019,2KsP6tYLJlTBvSUxnwlVWa,Mike Posner,Cooler Than Me - Single Mix,213293,2010,2010,False,album,2
+track_0020,1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,Imma Be,257560,2009,2010,True,album,1
+track_0021,3nFkdlSjzX9mRTtwJOzDYB,JAŸ-Z,Empire State Of Mind,276920,2009,2010,True,album,2
+track_0022,23zg3TcAtWQy7J6upgbUnj,USHER,DJ Got Us Fallin' In Love (feat. Pitbull),220800,2010,2010,False,album,2
+track_0023,7o9Nl7K1Al6NNAHX6jn6iG,Travie McCoy,Billionaire (feat. Bruno Mars),211160,2010,2010,True,album,2
+track_0024,7dGJo4pcD2V6oG8kP0tJRR,Eminem,Not Afraid,248133,2010,2010,True,album,1
+track_0025,5tKXB9uuebKE34yowVaU3C,Iyaz,Replay,182306,2009,2010,False,album,1
+track_0026,3AQRLZ9PuTAozP28Skbq8V,The Script,Breakeven,261426,2008,2010,False,album,1
+track_0027,6LqNN22kT3074XbTVUrhzX,Kesha,Your Love Is My Drug,187133,2010,2010,False,album,1
+track_0028,1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,I Gotta Feeling,289133,2009,2010,False,album,1
+track_0029,07QEuhtrNmmZ0zEcqE9SF6,Owl City,Fireflies,228346,2009,2010,False,album,1
+track_0030,2iojnBLj0qIMiKPvVhLnsH,Trey Songz,Say Aah (feat. Fabolous),207546,2009,2010,False,album,2
+track_0031,3TVXtAsR1Inumwj472S9r4,Drake,Find Your Love,208946,2010,2010,False,album,1
+track_0032,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Alejandro,274213,2009,2010,False,album,1
+track_0033,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,Ridin' Solo,215746,2010,2010,False,album,1
+track_0034,2gBjLmx6zQnFGQJCAQpRgw,Nelly,Just A Dream,237800,2010,2010,False,album,1
+track_0035,3ipn9JLAPI5GUEo4y4jcoi,Ludacris,How Low,201586,2010,2010,True,album,1
+track_0036,698hF4vcwHwPy8ltmXermq,Far East Movement,Like A G6,216893,2010,2010,False,album,3
+track_0037,5Y5TRrQiqgUO4S36tzjIRZ,Timbaland,Carry Out (Featuring Justin Timberlake),232466,2009,2010,False,album,2
+track_0038,1GxkXlMwML1oSg5eLPiAz3,Michael Bublé,Haven't Met You Yet,244586,2009,2010,False,album,1
+track_0039,0jnsk9HBra6NMjO2oANoPY,Flo Rida,Club Can't Handle Me (feat. David Guetta),234560,2010,2010,False,album,2
+track_0040,4pADjHPWyrlAF0FA7joK2H,Jay Sean,Down,212106,2009,2010,False,album,2
+track_0041,3K2zB87GZv1krx031en5VA,La Roux,Bulletproof,205733,2009,2010,False,album,1
+track_0042,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,Whatcha Say,221253,2020,2010,False,compilation,1
+track_0043,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Baby,216613,2021,2010,False,compilation,2
+track_0044,6prmLEyn4LfHlD9NnXWlf7,Adam Lambert,Whataya Want from Me,227320,2009,2010,False,album,1
+track_0045,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Mine,230773,2010,2010,False,album,1
+track_0046,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Only Girl (In The World),235493,2010,2010,False,album,1
+track_0047,2zwHaEmXxX6DTv4i8ajNCM,Kris Allen,Live Like We're Dying,212506,2009,2010,False,album,1
+track_0048,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Hard,250600,2009,2010,True,album,2
+track_0049,3nFkdlSjzX9mRTtwJOzDYB,JAŸ-Z,Young Forever,253906,2009,2010,True,album,2
+track_0050,6LqNN22kT3074XbTVUrhzX,Kesha,Blah Blah Blah (feat. 3OH!3),172053,2010,2010,True,album,2
+track_0051,2iojnBLj0qIMiKPvVhLnsH,Trey Songz,Bottoms Up (feat. Nicki Minaj),242013,2010,2010,True,album,2
+track_0052,4pADjHPWyrlAF0FA7joK2H,Jay Sean,Do You Remember,210306,2009,2010,False,album,3
+track_0053,5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,All The Right Moves,238000,2009,2010,False,album,1
+track_0054,0yNy8fi1yBBq526E6mx4Zs,Orianthi,According To You,200253,2009,2010,False,album,1
+track_0055,3ipn9JLAPI5GUEo4y4jcoi,Ludacris,My Chick Bad,216933,2010,2010,True,album,2
+track_0056,06HL4z0CvFAxyc27GXpf02,Taylor Swift,You Belong With Me,232120,2008,2010,False,album,1
+track_0057,1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,Meet Me Halfway,284373,2009,2010,False,album,1
+track_0058,6LqNN22kT3074XbTVUrhzX,Kesha,Take It Off,215200,2010,2010,False,album,1
+track_0059,3TVXtAsR1Inumwj472S9r4,Drake,Over,233560,2010,2010,True,album,1
+track_0060,0RpddSzUHfncUWNJXKOsjy,Neon Trees,Animal,212306,2010,2010,False,album,1
+track_0061,04gDigrS5kc9YWfZHwBETP,Maroon 5,Misery,216640,2021,2010,False,compilation,1
+track_0062,5ndkK3dpZLKtBklKjxNQwT,B.o.B,Magic (feat. Rivers Cuomo),196133,2010,2010,False,album,2
+track_0063,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Paparazzi,208306,2008,2010,True,album,1
+track_0064,1ZKqrja0WvbSssYNFO3lzs,New Boyz,Tie Me Down (feat. Ray J),178807,2009,2010,True,album,2
+track_0065,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Your Love,245253,2010,2010,True,album,1
+track_0066,5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,Party In The U.S.A.,202066,2009,2010,False,album,1
+track_0067,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Deuces (feat. Tyga & Kevin McCall),276560,2011,2010,True,album,3
+track_0068,26dSoYclwsYLMAKD3tpOr4,Britney Spears,3,213173,2009,2010,False,compilation,1
+track_0069,4M6Z1wubeKtwPqbjJygTOc,Shontelle,Impossible,226533,2010,2010,False,album,1
+track_0070,3TVXtAsR1Inumwj472S9r4,Drake,Forever,357706,2009,2010,True,album,4
+track_0071,0vWCyXMrrvMlCcepuOJaGI,BOYS LIKE GIRLS,Two Is Better Than One (feat. Taylor Swift),242840,2010,2010,False,single,2
+track_0072,0FWzNDaEu9jdgcYTbcOa4F,3OH!3,My First Kiss (feat. Ke$ha),192440,2010,2010,False,album,2
+track_0073,3BmGtnKgCSGYIUhmivXKWX,Kelly Clarkson,Already Gone,281560,2009,2010,False,album,1
+track_0074,1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,Rock That Body,268840,2009,2010,False,album,1
+track_0075,5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,Secrets,224693,2009,2010,False,album,1
+track_0076,6dJeKm76NjfXBNTpHmOhfO,Selena Gomez & The Scene,Naturally,202586,2009,2010,False,album,1
+track_0077,3DiDSECUqqY1AuBP8qtaIa,Alicia Keys,Un-thinkable (I'm Ready),249240,2009,2010,False,album,1
+track_0078,0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",232506,2010,2010,True,album,1
+track_0079,0Chxmm4XMM87mJOHvyiUzL,Kevin Rudolf,I Made It (Cash Money Heroes),249546,2010,2010,True,album,4
+track_0080,0hYxQe3AK5jBPCr5MumLHD,Sugarland,Stuck Like Glue,247586,2010,2010,False,album,1
+track_0081,23zg3TcAtWQy7J6upgbUnj,USHER,Hey Daddy (Daddy's Home),224093,2010,2010,False,album,1
+track_0082,23zg3TcAtWQy7J6upgbUnj,USHER,There Goes My Baby,281293,2010,2010,False,album,1
+track_0083,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Today Was A Fairytale,242480,2011,2010,False,single,1
+track_0084,5Y5TRrQiqgUO4S36tzjIRZ,Timbaland,Say Something (Featuring Drake),240920,2009,2010,True,album,2
+track_0085,6vWDO969PvNqNYHIOW5v0m,Beyoncé,Sweet Dreams,208066,2008,2010,False,album,1
+track_0086,2qk9voo8llSGYcZ6xrBzKx,Kings of Leon,Use Somebody,230760,2008,2010,False,album,1
+track_0087,4xFUf1FHVy696Q1JQZMTRj,Carrie Underwood,Undo It,178372,2009,2010,False,album,1
+track_0088,6S0dmVVn4udvppDhZIWxCr,Sean Kingston,Eenie Meenie,201946,2010,2010,False,single,2
+track_0089,55Aa2cqylxrFIXC767Z865,Lil Wayne,Right Above It,271946,2010,2010,True,album,2
+track_0090,66lH4jAE7pqPlOlzUKbwA0,Miranda Lambert,The House That Built Me,236626,2009,2010,False,album,1
+track_0091,75FnCoo4FBxH5K1Rrx0k5A,The Band Perry,If I Die Young,222773,2010,2010,False,album,1
+track_0092,74XFHRwlV6OrjEM0A2NCMF,Paramore,The Only Exception,267653,2009,2010,False,album,1
+track_0093,32WkQRZEVKSzVAAYqukAEA,Lady A,American Honey,224866,2010,2010,False,album,1
+track_0094,2Sqr0DXoaYABbjBo9HaMkM,Sara Bareilles,King of Anything,207428,2010,2010,False,album,1
+track_0095,5P5FTygHyx2G57oszR3Wot,Daughtry,Life After You,207214,2016,2010,False,compilation,1
+track_0096,2DnqqkzzDKm3vAoyHtn8So,Uncle Kracker,Smile,201626,2009,2010,False,album,1
+track_0097,1EeArivTpzLNCqubV95255,Cali Swag District,Teach Me How to Dougie,237480,2011,2010,True,album,1
+track_0098,3DiDSECUqqY1AuBP8qtaIa,Alicia Keys,Try Sleeping with a Broken Heart,249013,2009,2010,False,album,1
+track_0099,0RKP52f5PNDCRZ9Luq2Sr7,Jerrod Niemann,"Lover, Lover",193733,2010,2010,False,album,1
+track_0100,1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,Sexy Bitch (feat. Akon),195853,2010,2010,True,album,2
+track_0101,4dpARuHxo51G3z768sgnrY,Adele,Rolling in the Deep,228093,2011,2011,False,album,1
+track_0102,3sgFRtyBnxXD5ESfmbK4dl,LMFAO,Party Rock Anthem,262146,2011,2011,False,album,3
+track_0103,6jJ0s89eD6GaHleKKya26X,Katy Perry,Firework,227880,2012,2011,False,album,1
+track_0104,6jJ0s89eD6GaHleKKya26X,Katy Perry,E.T.,229573,2012,2011,False,album,2
+track_0105,0TnOYISbd1XYRBk9myaseg,Pitbull,Give Me Everything (feat. Nayer),252306,2011,2011,False,album,4
+track_0106,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,Grenade,222091,2010,2011,False,album,1
+track_0107,5nLYd9ST4Cnwy6NHaCxbj8,CeeLo Green,Fuck You,222933,2010,2011,True,album,1
+track_0108,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Super Bass,200013,2010,2011,True,album,1
+track_0109,04gDigrS5kc9YWfZHwBETP,Maroon 5,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",201160,2010,2011,False,album,2
+track_0110,1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,Just Can’t Get Enough,219426,2010,2011,False,album,1
+track_0111,2DlGxzQSjYe5N6G9nkYghR,Jennifer Lopez,On The Floor,284866,2011,2011,False,album,2
+track_0112,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,S&M,243533,2010,2011,True,album,1
+track_0113,7gP3bB2nilZXLfPHJhMdvc,Foster The People,Pumped Up Kicks,239600,2011,2011,False,album,1
+track_0114,6jJ0s89eD6GaHleKKya26X,Katy Perry,Last Friday Night (T.G.I.F.),230746,2012,2011,False,album,1
+track_0115,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,Just the Way You Are,220734,2010,2011,False,album,1
+track_0116,7qG3b048QCHVRO5Pv1T5lw,Enrique Iglesias,Tonight (I'm Fuckin' You),232213,2010,2011,True,album,3
+track_0117,1KCSPY1glIKqW2TotWuXOR,P!nk,Raise Your Glass,203280,2010,2011,True,compilation,1
+track_0118,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Born This Way,260252,2011,2011,False,album,1
+track_0119,1KCSPY1glIKqW2TotWuXOR,P!nk,F**kin' Perfect,213413,2010,2011,True,compilation,1
+track_0120,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,What's My Name?,263173,2010,2011,True,album,2
+track_0121,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Look At Me Now (feat. Lil' Wayne & Busta Rhymes),222586,2011,2011,True,album,3
+track_0122,3KV3p5EY4AvKxOlhGHORLg,Jeremih,Down On Me,228453,2010,2011,False,album,2
+track_0123,55Aa2cqylxrFIXC767Z865,Lil Wayne,How To Love,240306,2011,2011,False,album,1
+track_0124,4dpARuHxo51G3z768sgnrY,Adele,Someone Like You,285240,2011,2011,False,album,1
+track_0125,5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,Good Life,253306,2009,2011,True,album,1
+track_0126,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,The Lazy Song,189109,2010,2011,False,album,1
+track_0127,26dSoYclwsYLMAKD3tpOr4,Britney Spears,Till the World Ends,237946,2011,2011,False,album,1
+track_0128,01QTIT5P1pFP3QnnFSdsJf,Lupe Fiasco,The Show Goes On,239613,2011,2011,True,album,1
+track_0129,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,The Edge Of Glory,320546,2011,2011,False,album,1
+track_0130,6LqNN22kT3074XbTVUrhzX,Kesha,We R Who We R,204760,2010,2011,False,album,1
+track_0131,137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,Black and Yellow,217666,2011,2011,True,album,1
+track_0132,6jTnHxhb6cDCaCu4rdvsQ0,Hot Chelle Rae,Tonight Tonight,200466,2011,2011,False,album,1
+track_0133,6LqNN22kT3074XbTVUrhzX,Kesha,Blow,219973,2010,2011,False,album,1
+track_0134,77IURH5NC56Jn09QHi76is,Bad Meets Evil,Lighters,303813,2011,2011,True,album,2
+track_0135,75FnCoo4FBxH5K1Rrx0k5A,The Band Perry,If I Die Young,222773,2010,2011,False,album,1
+track_0136,4IJczjB0fJ04gs4uvP0Fli,Gym Class Heroes,Stereo Hearts (feat. Adam Levine),210960,2011,2011,False,album,2
+track_0137,1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,The Time (Dirty Bit),307640,2010,2011,False,album,1
+track_0138,2QYEvpsWUOjqaYuxDPTCmV,Diddy - Dirty Money,Coming Home,238693,2010,2011,False,album,2
+track_0139,0TnOYISbd1XYRBk9myaseg,Pitbull,Hey Baby (Drop It to the Floor) (feat. T-Pain),234453,2011,2011,False,album,2
+track_0140,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Only Girl (In The World),235493,2010,2011,False,album,1
+track_0141,55Aa2cqylxrFIXC767Z865,Lil Wayne,6 Foot 7 Foot,248586,2011,2011,True,album,2
+track_0142,32WkQRZEVKSzVAAYqukAEA,Lady A,Just A Kiss,218840,2011,2011,False,album,1
+track_0143,3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,Dirt Road Anthem,229400,2010,2011,False,album,1
+track_0144,6MF9fzBmfXghAz953czmBC,Taio Cruz,Dynamite,203866,2010,2011,False,album,1
+track_0145,6f4XkbvYlXMH0QgVRzW0sM,Waka Flocka Flame,No Hands (feat. Roscoe Dash & Wale),263773,2010,2011,True,album,3
+track_0146,26dSoYclwsYLMAKD3tpOr4,Britney Spears,I Wanna Go,210266,2011,2011,False,album,1
+track_0147,0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,I'm On One,296146,2011,2011,True,album,4
+track_0148,2aYJ5LAta2ScCdfLhKgZOY,Cobra Starship,You Make Me Feel... (feat. Sabi),215693,2011,2011,False,album,2
+track_0149,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Yeah 3x,241666,2011,2011,True,album,1
+track_0150,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Moment 4 Life,279306,2010,2011,True,album,2
+track_0151,6DPYiyq5kWVQS4RGwxzPC7,Dr. Dre,I Need A Doctor,283733,2011,2011,True,single,3
+track_0152,2gBjLmx6zQnFGQJCAQpRgw,Nelly,Just A Dream,237800,2010,2011,False,album,1
+track_0153,3AuMNF8rQAKOzjYppFNAoB,Kelly Rowland,Motivation,230560,2011,2011,False,album,2
+track_0154,6XwwFnewNgWp81MYMK8zLq,Edward Maya,Stereo Love - Original,248666,2009,2011,False,single,2
+track_0155,7H55rcKCfwqkyDFH9wpKM6,Christina Perri,jar of hearts,246587,2011,2011,False,album,1
+track_0156,137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,Roll Up,227773,2011,2011,True,album,1
+track_0157,3sgFRtyBnxXD5ESfmbK4dl,LMFAO,Sexy And I Know It,199480,2011,2011,False,album,1
+track_0158,698hF4vcwHwPy8ltmXermq,Far East Movement,Rocketeer,211253,2010,2011,False,album,2
+track_0159,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,All Of The Lights,299613,2010,2011,True,album,1
+track_0160,26dSoYclwsYLMAKD3tpOr4,Britney Spears,Hold It Against Me,229087,2011,2011,False,album,1
+track_0161,23zg3TcAtWQy7J6upgbUnj,USHER,More - RedOne Jimmy Joker Remix,219986,2010,2011,False,single,1
+track_0162,0p4nmQO2msCgU4IF37Wi3j,Avril Lavigne,What the Hell,220706,2011,2011,False,album,1
+track_0163,0Tob4H0FLtEONHU1MjpUEp,Tinie Tempah,Written in the Stars (feat. Eric Turner),219560,2010,2011,True,album,2
+track_0164,2iojnBLj0qIMiKPvVhLnsH,Trey Songz,Bottoms Up (feat. Nicki Minaj),242013,2010,2011,True,album,2
+track_0165,23zg3TcAtWQy7J6upgbUnj,USHER,DJ Got Us Fallin' In Love (feat. Pitbull),220800,2010,2011,False,album,2
+track_0166,3AQRLZ9PuTAozP28Skbq8V,The Script,For the First Time,252853,2011,2011,True,album,1
+track_0167,1UTPBmNbXNTittyMJrNkvw,Blake Shelton,Honey Bee,210720,2011,2011,False,album,1
+track_0168,3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,Don't You Wanna Stay - with Kelly Clarkson,256440,2010,2011,False,album,2
+track_0169,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,We Found Love,215226,2011,2011,False,album,2
+track_0170,63wjoROpeh5f11Qm93UiJ1,Keri Hilson,Pretty Girl Rock,243920,2010,2011,False,album,1
+track_0171,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,You And I,307360,2011,2011,False,album,1
+track_0172,698hF4vcwHwPy8ltmXermq,Far East Movement,Like A G6,216893,2010,2011,False,album,3
+track_0173,1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,Without You (feat. Usher),208133,2011,2011,False,album,2
+track_0174,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Back To December,293026,2010,2011,False,album,1
+track_0175,6jJ0s89eD6GaHleKKya26X,Katy Perry,Teenage Dream,227760,2012,2011,False,album,1
+track_0176,6eKWqnckwdIlSnjaYgIyxv,Eli Young Band,Crazy Girl - Single Version,200706,2011,2011,False,album,1
+track_0177,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Cheers (Drink To That),261746,2010,2011,False,album,1
+track_0178,6dJeKm76NjfXBNTpHmOhfO,Selena Gomez & The Scene,Who Says,195613,2011,2011,False,album,1
+track_0179,1n2pb9Tsfe4SwAjmUac6YT,Jake Owen,Barefoot Blue Jean Night,169420,2011,2011,False,album,1
+track_0180,6yJCxee7QumYr820xdIsjo,Zac Brown Band,Knee Deep (feat. Jimmy Buffett),203173,2010,2011,False,album,2
+track_0181,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan,Country Girl (Shake It For Me),225560,2011,2011,False,album,1
+track_0182,13YmWQJFwgZrd4bf5IjMY4,Brad Paisley,Remind Me (with Carrie Underwood),271900,2011,2011,False,album,2
+track_0183,7Ip2u3e5Nv6fFb5xyIHxEE,DEV,In The Dark,226226,2012,2011,False,album,1
+track_0184,1ZKqrja0WvbSssYNFO3lzs,New Boyz,Backseat (feat. The Cataracs & Dev),224093,2011,2011,True,album,3
+track_0185,3TVXtAsR1Inumwj472S9r4,Drake,Headlines,235986,2011,2011,True,album,1
+track_0186,6vWDO969PvNqNYHIOW5v0m,Beyoncé,Best Thing I Never Had,253746,2011,2011,False,album,1
+track_0187,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,Don't Wanna Go Home,206080,2011,2011,False,album,1
+track_0188,1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,Where Them Girls At (feat. Nicki Minaj & Flo Rida),210093,2011,2011,True,album,3
+track_0189,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,She Ain't You,248106,2011,2011,False,album,1
+track_0190,2qgvmDsc4jrqbAbjq1HGM2,Rodney Atkins,Take A Back Road,208586,2011,2011,False,album,1
+track_0191,2KsP6tYLJlTBvSUxnwlVWa,Mike Posner,Please Don't Go,196813,2010,2011,False,album,1
+track_0192,360IAlyVv4PCEVjgyMZrxK,Miguel,Sure Thing,195373,2010,2011,False,album,1
+track_0193,2gsggkzM5R49q6jpPvazou,Jessie J,Price Tag,223053,2011,2011,False,album,2
+track_0194,1UTPBmNbXNTittyMJrNkvw,Blake Shelton,God Gave Me You,229533,2011,2011,False,album,1
+track_0195,55Aa2cqylxrFIXC767Z865,Lil Wayne,She Will,305840,2011,2011,True,album,2
+track_0196,0Bvs8yPjrQSbmVIRqSg1Sp,Thompson Square,Are You Gonna Kiss Me Or Not,184920,2011,2011,False,album,1
+track_0197,0RpddSzUHfncUWNJXKOsjy,Neon Trees,Animal,212293,2010,2011,False,album,1
+track_0198,3grHWM9bx2E9vwJCdlRv9O,Kenny Chesney,You and Tequila (feat. Grace Potter),242840,2010,2011,False,album,2
+track_0199,6yJCxee7QumYr820xdIsjo,Zac Brown Band,Colder Weather,273893,2010,2011,False,album,1
+track_0200,0c173mlxpT3dSFRgMO8XPh,Big Sean,My Last,254386,2011,2011,True,album,2
+track_0201,2AsusXITU8P25dlRNhcAbG,Gotye,Somebody That I Used To Know,244973,2011,2012,False,album,2
+track_0202,5nCi3BB41mBaMH9gfr6Su0,fun.,We Are Young (feat. Janelle Monáe),250626,2011,2012,False,single,2
+track_0203,0jnsk9HBra6NMjO2oANoPY,Flo Rida,Wild Ones (feat. Sia),233688,2011,2012,False,single,2
+track_0204,3BmGtnKgCSGYIUhmivXKWX,Kelly Clarkson,Stronger (What Doesn't Kill You),221946,2011,2012,False,album,1
+track_0205,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Starships,210813,2012,2012,True,single,1
+track_0206,3TVXtAsR1Inumwj472S9r4,Drake,The Motto,181400,2012,2012,True,single,2
+track_0207,4AK6F7OLvEQ5QYCBNiQWHq,One Direction,What Makes You Beautiful,199213,2011,2012,False,single,1
+track_0208,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,We Found Love,215226,2012,2012,False,album,2
+track_0209,3TVXtAsR1Inumwj472S9r4,Drake,Take Care,277386,2011,2012,True,album,2
+track_0210,3sgFRtyBnxXD5ESfmbK4dl,LMFAO,Sexy And I Know It,199480,2011,2012,False,album,1
+track_0211,4dpARuHxo51G3z768sgnrY,Adele,Set Fire to the Rain,241693,2011,2012,False,album,1
+track_0212,0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,Lights - Single Version,211800,2010,2012,False,album,1
+track_0213,3sgFRtyBnxXD5ESfmbK4dl,LMFAO,Party Rock Anthem,263360,2011,2012,False,single,3
+track_0214,1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,Turn Me On,199693,2012,2012,False,album,2
+track_0215,7hJcb9fa4alzcOq3EaNPoG,Snoop Dogg,"Young, Wild & Free (feat. Bruno Mars)",207333,2011,2012,True,single,3
+track_0216,5LHRHt1k9lMyONurDHEdrp,Tyga,Rack City,208840,2011,2012,True,single,1
+track_0217,04gDigrS5kc9YWfZHwBETP,Maroon 5,Payphone,231466,2012,2012,True,single,2
+track_0218,6jJ0s89eD6GaHleKKya26X,Katy Perry,Part Of Me,215494,2012,2012,False,single,1
+track_0219,4IJczjB0fJ04gs4uvP0Fli,Gym Class Heroes,Ass Back Home (feat. Neon Hitch),222213,2011,2012,True,album,2
+track_0220,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan,Drunk On You,213546,2011,2012,False,album,1
+track_0221,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,Mercy,329320,2012,2012,True,single,4
+track_0222,04gDigrS5kc9YWfZHwBETP,Maroon 5,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",201253,2010,2012,False,album,2
+track_0223,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Where Have You Been,242680,2011,2012,False,album,1
+track_0224,2IvkS5MXK0vPGnwyJsrEyV,Eric Church,Springsteen,263386,2011,2012,False,album,1
+track_0225,0TnOYISbd1XYRBk9myaseg,Pitbull,International Love (feat. Chris Brown),227280,2011,2012,False,album,2
+track_0226,4xFUf1FHVy696Q1JQZMTRj,Carrie Underwood,Good Girl,205233,2012,2012,False,album,1
+track_0227,3nFkdlSjzX9mRTtwJOzDYB,JAŸ-Z,Ni**as In Paris,219333,2011,2012,True,album,2
+track_0228,1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,Titanium (feat. Sia),245053,2011,2012,False,album,2
+track_0229,6jJ0s89eD6GaHleKKya26X,Katy Perry,Wide Awake,220946,2012,2012,False,album,1
+track_0230,5nCi3BB41mBaMH9gfr6Su0,fun.,Some Nights,277040,2012,2012,True,album,1
+track_0231,4dpARuHxo51G3z768sgnrY,Adele,Rumour Has It,221426,2011,2012,False,album,1
+track_0232,6S2OmqARrzebs0tKUEyXyp,Demi Lovato,Give Your Heart a Break,205346,2011,2012,False,album,1
+track_0233,0TnOYISbd1XYRBk9myaseg,Pitbull,"Back in Time - featured in ""Men In Black 3""",205792,2012,2012,False,single,1
+track_0234,5DYAABs8rkY9VhwtENoQCz,Gavin DeGraw,Not Over You,218520,2011,2012,False,album,1
+track_0235,4gzpq5DPGxSnKTe4SA8HAU,Coldplay,Paradise,278719,2011,2012,False,album,1
+track_0236,4dpARuHxo51G3z768sgnrY,Adele,Someone Like You,285040,2011,2012,False,album,1
+track_0237,137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,"Work Hard, Play Hard",220714,2012,2012,False,single,1
+track_0238,6jJ0s89eD6GaHleKKya26X,Katy Perry,The One That Got Away,227333,2010,2012,False,album,1
+track_0239,5ndkK3dpZLKtBklKjxNQwT,B.o.B,So Good,213253,2012,2012,False,album,1
+track_0240,2r8r62VGJKGi463aH1HJUZ,Kirko Bangz,Drank in My Cup,232160,2011,2012,True,single,1
+track_0241,7Kp7SzuRuNiPFCy7JIwnLx,Ca$h Out,Cashin' Out,238760,2012,2012,True,single,1
+track_0242,4dpARuHxo51G3z768sgnrY,Adele,Rolling in the Deep,228093,2010,2012,False,single,1
+track_0243,2hJPr4lk7Q8SSvCVBl9fWM,Kip Moore,Somethin' 'Bout A Truck,213826,2012,2012,False,album,1
+track_0244,6eKWqnckwdIlSnjaYgIyxv,Eli Young Band,Even If It Breaks Your Heart,220520,2011,2012,False,album,1
+track_0245,3grHWM9bx2E9vwJCdlRv9O,Kenny Chesney,Come Over,248449,2012,2012,False,album,1
+track_0246,5Tf4EH8tDvznnjULcFxkIl,Alex Clare,Too Close,256613,2011,2012,False,album,1
+track_0247,1EVWYRr2obCRDoSoD6KSuM,Havana Brown,We Run The Night,228200,2011,2012,True,single,2
+track_0248,0jnsk9HBra6NMjO2oANoPY,Flo Rida,Whistle,225000,2012,2012,False,single,1
+track_0249,7CajNmpbOovFoOoasH2HaY,Calvin Harris,Let's Go - Radio Edit - feat. Ne-Yo,226106,2012,2012,False,single,1
+track_0250,17lzZA2AlOHwCwFALHttmp,2 Chainz,No Lie,239186,2012,2012,True,single,2
+track_0251,7H6dkUChT5EoOQtUVMg4cN,Hunter Hayes,Wanted,228840,2011,2012,False,album,1
+track_0252,4m4SfDVbF5wxrwEjDKgi4k,Cher Lloyd,Want U Back,213013,2012,2012,False,single,1
+track_0253,3CygdxquGHurS7f9LjNLkv,Little Big Town,Pontoon,214960,2012,2012,False,single,1
+track_0254,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,As Long As You Love Me,229466,2012,2012,False,album,2
+track_0255,04gDigrS5kc9YWfZHwBETP,Maroon 5,One More Night,219493,2012,2012,False,album,1
+track_0256,16oZKvXb6WkQlVAjwo2Wbg,The Lumineers,Ho Hey,163133,2012,2012,False,album,1
+track_0257,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Don't Wake Me Up,222306,2012,2012,False,album,1
+track_0258,06HL4z0CvFAxyc27GXpf02,Taylor Swift,We Are Never Ever Getting Back Together,192986,2012,2012,False,single,1
+track_0259,3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,Take a Little Ride,189466,2012,2012,False,single,1
+track_0260,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Pound The Alarm,205640,2012,2012,True,album,1
+track_0261,4xFUf1FHVy696Q1JQZMTRj,Carrie Underwood,Blown Away,240141,2012,2012,False,album,1
+track_0262,3FUY2gzHeIiaesXtOAdB7A,Train,50 Ways to Say Goodbye,247946,2012,2012,False,album,1
+track_0263,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,It's Time,238466,2012,2012,False,single,1
+track_0264,360IAlyVv4PCEVjgyMZrxK,Miguel,Adorn,193146,2012,2012,False,album,1
+track_0265,5Zq7R5qmi58ByYyBQTlNuk,Lee Brice,Hard To Love,220040,2012,2012,False,album,1
+track_0266,2dd5mrQZvg6SmahdgVKDzh,PSY,Gangnam Style (강남스타일),219493,2012,2012,False,single,1
+track_0267,6LqNN22kT3074XbTVUrhzX,Kesha,Die Young,211920,2012,2012,False,album,1
+track_0268,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Diamonds,225200,2012,2012,False,single,1
+track_0269,3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,Fly over States,218266,2010,2012,False,album,1
+track_0270,3aQeKQSyrW4qWr35idm0cy,T-Pain,5 O'Clock (feat. Lily Allen & Wiz Khalifa),281280,2011,2012,True,album,3
+track_0271,7H55rcKCfwqkyDFH9wpKM6,Christina Perri,a thousand years,285120,2011,2012,False,compilation,1
+track_0272,0c173mlxpT3dSFRgMO8XPh,Big Sean,Dance (A$$),197760,2011,2012,True,album,1
+track_0273,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan,I Don't Want This Night To End,219973,2011,2012,False,album,1
+track_0274,6dJeKm76NjfXBNTpHmOhfO,Selena Gomez & The Scene,Love You Like A Love Song,188453,2011,2012,False,album,1
+track_0275,2bA6fzP0lMAQ4kz6CF61w8,Toby Keith,Red Solo Cup,223386,2011,2012,False,album,1
+track_0276,4IJczjB0fJ04gs4uvP0Fli,Gym Class Heroes,Stereo Hearts (feat. Adam Levine),210960,2011,2012,False,single,2
+track_0277,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Turn Up the Music,229053,2012,2012,False,single,1
+track_0278,1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,Without You - feat. Usher,208134,2011,2012,False,album,2
+track_0279,6l3HvQ5sa6mXTsMTB19rO5,J. Cole,Work Out,234773,2011,2012,True,album,1
+track_0280,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,You Da One,200013,2012,2012,True,album,1
+track_0281,3FUY2gzHeIiaesXtOAdB7A,Train,Drive By,195973,2012,2012,False,album,1
+track_0282,1KCSPY1glIKqW2TotWuXOR,P!nk,Blow Me,255586,2012,2012,True,album,1
+track_0283,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Boyfriend,171333,2012,2012,False,album,1
+track_0284,4M0DLz8te9Q1lNIXBBwvfG,Karmin,Brokenhearted,227146,2012,2012,False,album,1
+track_0285,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,BURN IT DOWN,230253,2012,2012,False,album,1
+track_0286,6sFIWsNpZYqfjUpaCgueju,Carly Rae Jepsen,Call Me Maybe,193400,2012,2012,False,album,1
+track_0287,23zg3TcAtWQy7J6upgbUnj,USHER,Climax,232906,2012,2012,False,album,1
+track_0288,23zg3TcAtWQy7J6upgbUnj,USHER,Scream,234693,2012,2012,False,album,1
+track_0289,2gsggkzM5R49q6jpPvazou,Jessie J,Domino,231693,2011,2012,False,album,1
+track_0290,2NhdGz9EDv2FeUw6udu2g1,The Wanted,Glad You Came,197935,2011,2012,False,album,1
+track_0291,0jnsk9HBra6NMjO2oANoPY,Flo Rida,Good Feeling,248133,2012,2012,False,album,1
+track_0292,0RpddSzUHfncUWNJXKOsjy,Neon Trees,Everybody Talks,177280,2012,2012,True,album,1
+track_0293,4phGZZrJZRo4ElhRtViYdl,Jason Mraz,I Won't Give Up,240165,2012,2012,False,album,1
+track_0294,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,It Will Rain,257720,2011,2012,False,single,1
+track_0295,07QEuhtrNmmZ0zEcqE9SF6,Owl City,Good Time,205933,2012,2012,False,album,2
+track_0296,7CajNmpbOovFoOoasH2HaY,Calvin Harris,Feel So Close - Radio Edit,206413,2012,2012,False,album,1
+track_0297,6p5JxpTc7USNnBnLzctyd4,Phillip Phillips,Home,210173,2012,2012,False,album,1
+track_0298,21E3waRsmPlU7jZsS13rcj,Ne-Yo,Let Me Love You (Until You Learn To Love Yourself),251626,2012,2012,False,album,1
+track_0299,2iojnBLj0qIMiKPvVhLnsH,Trey Songz,Heart Attack,233146,2012,2012,True,album,1
+track_0300,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Birthday Cake,78200,2011,2012,True,album,1
+track_0301,5BcAKTbp20cv7tC5VqPFoC,Macklemore & Ryan Lewis,Thrift Shop (feat. Wanz),235613,2012,2013,True,album,4
+track_0302,0ZrpamOxcZybMHGg1AYtHP,Robin Thicke,Blurred Lines,263826,2013,2013,True,album,3
+track_0303,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,Radioactive,186813,2012,2013,False,album,1
+track_0304,25fqWEebq6PoiGQIHIrdtv,Baauer,Harlem Shake,196664,2013,2013,False,single,1
+track_0305,3JhNCzhSMTxs9WLGJJxWOY,Macklemore,Can't Hold Us (feat. Ray Dalton),258431,2012,2013,False,album,4
+track_0306,31TPClRtHm23RisEBtV3X7,Justin Timberlake,Mirrors,485598,2013,2013,False,album,1
+track_0307,1KCSPY1glIKqW2TotWuXOR,P!nk,Just Give Me a Reason (feat. Nate Ruess),242721,2012,2013,False,album,2
+track_0308,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,When I Was Your Man,213826,2012,2013,False,album,1
+track_0309,3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,Cruise - Remix,208786,2013,2013,False,album,2
+track_0310,6jJ0s89eD6GaHleKKya26X,Katy Perry,Roar,223546,2013,2013,False,album,1
+track_0311,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,Locked out of Heaven,233478,2012,2013,False,album,1
+track_0312,16oZKvXb6WkQlVAjwo2Wbg,The Lumineers,Ho Hey,163133,2013,2013,False,album,1
+track_0313,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Stay,240706,2012,2013,False,album,2
+track_0314,4tZwfgrHOc3mvqYlEYSvVi,Daft Punk,Get Lucky (feat. Pharrell Williams and Nile Rodgers),369626,2013,2013,False,album,3
+track_0315,163tK9Wjr9P9DmM0AVK7lm,Lorde,Royals,190185,2013,2013,False,album,1
+track_0316,06HL4z0CvFAxyc27GXpf02,Taylor Swift,I Knew You Were Trouble.,217973,2012,2013,False,album,1
+track_0317,5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,We Can't Stop,231233,2013,2013,False,album,1
+track_0318,5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,Wrecking Ball,221366,2013,2013,False,album,1
+track_0319,1vCWHaC5f2uS3yhpwWbIA6,Avicii,Wake Me Up,247426,2013,2013,False,album,1
+track_0320,31TPClRtHm23RisEBtV3X7,Justin Timberlake,Suit & Tie (feat. JAY-Z),326271,2013,2013,True,album,2
+track_0321,6xfqnpe2HnLVUaYXs2F8YS,Anna Kendrick,Cups (Pitch Perfect’s “When I’m Gone”) - Pop Version,128013,2015,2013,False,compilation,1
+track_0322,3nFkdlSjzX9mRTtwJOzDYB,JAŸ-Z,Holy Grail,338413,2013,2013,True,album,2
+track_0323,085pc2PYOi8bGKj0PNjekA,will.i.am,Scream & Shout,283400,2013,2013,True,album,2
+track_0324,2qxJFvFYMEDqd7ui6kSAcq,Zedd,Clarity,271426,2012,2013,False,album,2
+track_0325,4njdEjTnLfcGImKZu1iSrz,AWOLNATION,Sail,259093,2011,2013,False,album,1
+track_0326,1h6Cn3P4NGzXbaXidqURXs,Swedish House Mafia,Don't You Worry Child - Radio Edit,212862,2012,2013,False,single,2
+track_0327,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Diamonds,225146,2012,2013,False,album,1
+track_0328,1VBflYyxBhnDc9uVib98rw,Icona Pop,I Love It (feat. Charli XCX),157152,2013,2013,True,album,2
+track_0329,4gwpcMTbLWtBUlOijbVpuu,Capital Cities,Safe And Sound,192789,2013,2013,False,album,1
+track_0330,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,Treasure,178560,2012,2013,True,album,1
+track_0331,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,The Way,227026,2013,2013,False,album,2
+track_0332,3TVXtAsR1Inumwj472S9r4,Drake,Started From the Bottom,174120,2013,2013,True,album,1
+track_0333,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,Come & Get It,231986,2013,2013,False,album,1
+track_0334,3TVXtAsR1Inumwj472S9r4,Drake,"Hold On, We're Going Home",227880,2013,2013,False,album,2
+track_0335,04gDigrS5kc9YWfZHwBETP,Maroon 5,Daylight,225400,2012,2013,False,album,1
+track_0336,0TnOYISbd1XYRBk9myaseg,Pitbull,Feel This Moment (feat. Christina Aguilera),229500,2012,2013,False,album,2
+track_0337,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Applause,212333,2013,2013,False,album,1
+track_0338,04gDigrS5kc9YWfZHwBETP,Maroon 5,One More Night,219466,2012,2013,False,album,1
+track_0339,55Aa2cqylxrFIXC767Z865,Lil Wayne,Love Me,255053,2013,2013,True,album,3
+track_0340,4UXqAaa6dQYAk18Lv7PEgX,Fall Out Boy,My Songs Know What You Did In The Dark (Light Em Up),186826,2013,2013,False,album,1
+track_0341,13ubrt8QOOCPljQ2FL1Kca,A$AP Rocky,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",233786,2013,2013,True,album,4
+track_0342,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Beauty And A Beat,227986,2012,2013,False,album,2
+track_0343,5BcAKTbp20cv7tC5VqPFoC,Macklemore & Ryan Lewis,Same Love (feat. Mary Lambert),320034,2012,2013,False,album,4
+track_0344,7CajNmpbOovFoOoasH2HaY,Calvin Harris,Sweet Nothing (feat. Florence Welch),212560,2012,2013,False,album,2
+track_0345,00FQb4jTyendYWaN8pK0wa,Lana Del Rey,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,214912,2013,2013,False,single,2
+track_0346,6p5JxpTc7USNnBnLzctyd4,Phillip Phillips,Home,210173,2012,2013,False,album,1
+track_0347,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,It's Time,237986,2012,2013,False,album,1
+track_0348,6l3HvQ5sa6mXTsMTB19rO5,J. Cole,Power Trip (feat. Miguel),241160,2013,2013,True,album,2
+track_0349,3DiDSECUqqY1AuBP8qtaIa,Alicia Keys,Girl On Fire (feat. Nicki Minaj) - Inferno Version,270723,2012,2013,False,album,2
+track_0350,6S2OmqARrzebs0tKUEyXyp,Demi Lovato,Heart Attack,210840,2013,2013,False,album,1
+track_0351,04gDigrS5kc9YWfZHwBETP,Maroon 5,Love Somebody,229826,2012,2013,False,album,1
+track_0352,3gd8FJtBJtkRxdfbTu19U2,Mumford & Sons,I Will Wait,276720,2012,2013,False,album,1
+track_0353,1KCSPY1glIKqW2TotWuXOR,P!nk,Try,247911,2012,2013,False,album,1
+track_0354,7FY5V3XMwlNBPitEjXowHQ,Darius Rucker,Wagon Wheel,298373,2013,2013,False,album,1
+track_0355,2dd5mrQZvg6SmahdgVKDzh,PSY,Gangnam Style (강남스타일),219493,2012,2013,False,single,1
+track_0356,7CajNmpbOovFoOoasH2HaY,Calvin Harris,I Need Your Love (feat. Ellie Goulding),234506,2012,2013,False,album,2
+track_0357,6LqNN22kT3074XbTVUrhzX,Kesha,Die Young,211920,2012,2013,False,album,1
+track_0358,5nCi3BB41mBaMH9gfr6Su0,fun.,Some Nights,277040,2012,2013,True,album,1
+track_0359,67nwj3Y5sZQLl72VNUHEYE,Wale,Bad (feat. Tiara Thomas),255693,2013,2013,True,album,2
+track_0360,1UTPBmNbXNTittyMJrNkvw,Blake Shelton,Boys 'Round Here (feat. Pistol Annies & Friends),288760,2013,2013,False,album,2
+track_0361,6p5JxpTc7USNnBnLzctyd4,Phillip Phillips,"Gone, Gone, Gone",209693,2012,2013,False,album,1
+track_0362,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,Demons,175200,2012,2013,False,album,1
+track_0363,5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,Counting Stars,257840,2014,2013,False,album,1
+track_0364,0jnsk9HBra6NMjO2oANoPY,Flo Rida,I Cry,223800,2012,2013,False,album,1
+track_0365,4dwdTW1Lfiq0cM8nBAqIIz,Of Monsters and Men,Little Talks,266600,2012,2013,False,album,1
+track_0366,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,The Other Side,226986,2013,2013,False,album,1
+track_0367,7dGJo4pcD2V6oG8kP0tJRR,Eminem,Berzerk,238746,2013,2013,True,album,1
+track_0368,3BmGtnKgCSGYIUhmivXKWX,Kelly Clarkson,Catch My Breath,250373,2012,2013,False,compilation,1
+track_0369,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan,Crash My Party,234760,2013,2013,False,album,1
+track_0370,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Pour It Up,161200,2012,2013,True,album,1
+track_0371,06HL4z0CvFAxyc27GXpf02,Taylor Swift,22,230133,2012,2013,False,album,1
+track_0372,7H6dkUChT5EoOQtUVMg4cN,Hunter Hayes,I Want Crazy - Encore,236865,2011,2013,False,album,1
+track_0373,2lEOFtf3cCyzomQcMHJGfZ,Ylvis,The Fox (What Does the Fox Say?),213708,2013,2013,False,single,1
+track_0374,4AK6F7OLvEQ5QYCBNiQWHq,One Direction,Best Song Ever,200111,2013,2013,False,album,1
+track_0375,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,The A Team,258373,2011,2013,False,album,1
+track_0376,5nCi3BB41mBaMH9gfr6Su0,fun.,Carry On,278373,2012,2013,False,album,1
+track_0377,6roFdX1y5BYSbp60OTJWMd,Tim McGraw,Highway Don't Care,276880,2013,2013,False,album,3
+track_0378,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan,That's My Kind Of Night,190186,2013,2013,False,album,1
+track_0379,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,Swimming Pools (Drank),247800,2012,2013,True,single,1
+track_0380,1UTPBmNbXNTittyMJrNkvw,Blake Shelton,Sure Be Cool If You Did,215720,2013,2013,False,album,1
+track_0381,4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,#Beautiful,199946,2014,2013,True,album,2
+track_0382,3whuHq0yGx60atvA2RCVRW,Olly Murs,Troublemaker (feat. Flo Rida),185586,2012,2013,False,album,2
+track_0383,2NdeV5rLm47xAvogXrYhJX,Ciara,Body Party,234294,2013,2013,False,album,1
+track_0384,360IAlyVv4PCEVjgyMZrxK,Miguel,Adorn,193146,2012,2013,False,album,1
+track_0385,3AQRLZ9PuTAozP28Skbq8V,The Script,Hall of Fame (feat. will.i.am),202533,2012,2013,False,album,2
+track_0386,21E3waRsmPlU7jZsS13rcj,Ne-Yo,Let Me Love You (Until You Learn To Love Yourself),251626,2012,2013,False,album,1
+track_0387,0T5OJgMVjKIX3b3W3ekqOl,Rocko,"U.O.E.N.O. (feat. Future, Rick Ross)",262857,2013,2013,True,single,1
+track_0388,7sfgqEdoeBTjd8lQsPT3Cy,Emeli Sandé,Next To Me,196866,2012,2013,False,album,1
+track_0389,66lH4jAE7pqPlOlzUKbwA0,Miranda Lambert,Mama's Broken Heart,179053,2011,2013,False,album,1
+track_0390,6x2LnllRG5uGarZMsD4iO8,Thomas Rhett,It Goes Like This,186080,2013,2013,False,album,1
+track_0391,31HjiqargV4NAw4GZqUale,Ace Hood,Bugatti,269266,2013,2013,True,album,3
+track_0392,7H6dkUChT5EoOQtUVMg4cN,Hunter Hayes,Wanted,228840,2011,2013,False,album,1
+track_0393,32WkQRZEVKSzVAAYqukAEA,Lady A,Downtown,195866,2013,2013,False,album,1
+track_0394,3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,Get Your Shine On,221000,2013,2013,False,album,1
+track_0395,085pc2PYOi8bGKj0PNjekA,will.i.am,#thatPOWER,279506,2013,2013,False,album,2
+track_0396,2Sqr0DXoaYABbjBo9HaMkM,Sara Bareilles,Brave,220460,2013,2013,False,album,1
+track_0397,0gadJ2b9A4SKsB1RFkBb66,Passenger,Let Her Go,252733,2012,2013,False,album,1
+track_0398,56x8mYvS3cyDGAi8N2FxbB,Randy Houser,Runnin' Outta Moonlight,193773,2013,2013,False,album,1
+track_0399,17lzZA2AlOHwCwFALHttmp,2 Chainz,I'm Different,207040,2012,2013,True,album,1
+track_0400,74XFHRwlV6OrjEM0A2NCMF,Paramore,Still into You,216013,2013,2013,False,album,1
+track_0401,2RdwBSPQiwcmiDo9kixcl8,Pharrell Williams,"Happy - From ""Despicable Me 2""",233306,2014,2014,False,album,1
+track_0402,6jJ0s89eD6GaHleKKya26X,Katy Perry,Dark Horse,215672,2013,2014,False,album,2
+track_0403,5y2Xq6xcjJb2jVM54GHK3t,John Legend,All of Me,269556,2013,2014,False,album,1
+track_0404,5yG7ZAZafVaAlMTeBybKAL,Iggy Azalea,Fancy,199938,2014,2014,True,album,2
+track_0405,5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,Counting Stars,257840,2014,2014,False,album,1
+track_0406,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,Talk Dirty (feat. 2 Chainz),177685,2013,2014,True,album,2
+track_0407,0DxeaLnv6SyYk2DOqkLO8c,MAGIC!,Rude,224849,2014,2014,False,album,1
+track_0408,6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,All About That Bass,191488,2015,2014,True,album,1
+track_0409,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,Problem,193920,2014,2014,False,album,2
+track_0410,2wY79sveU1sp5g7SokKOiI,Sam Smith,Stay With Me,172723,2015,2014,False,album,1
+track_0411,0TnOYISbd1XYRBk9myaseg,Pitbull,Timber,204134,2012,2014,False,album,2
+track_0412,7EQ0qTo7fWT7DPxmxtSYEc,Bastille,Pompeii,214147,2013,2014,False,album,1
+track_0413,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Shake It Off,219200,2014,2014,False,album,1
+track_0414,0awl5piYwO0CDTHEkCjUhn,Nico & Vinz,Am I Wrong,245866,2014,2014,False,album,1
+track_0415,540vIaP2JwjQb9dm3aArA4,DJ Snake,Turn Down for What,213733,2013,2014,False,single,2
+track_0416,7dGJo4pcD2V6oG8kP0tJRR,Eminem,The Monster,250188,2013,2014,True,album,2
+track_0417,5xKp3UyavIBUsGy3DQdXeF,A Great Big World,Say Something,229404,2014,2014,False,album,2
+track_0418,163tK9Wjr9P9DmM0AVK7lm,Lorde,Team,193058,2013,2014,False,album,1
+track_0419,0gadJ2b9A4SKsB1RFkBb66,Passenger,Let Her Go,252733,2012,2014,False,album,1
+track_0420,163tK9Wjr9P9DmM0AVK7lm,Lorde,Royals,190185,2013,2014,False,album,1
+track_0421,73Np75Wv2tju61Eo9Zw4IR,Idina Menzel,"Let It Go - From ""Frozen""/Soundtrack Version",223840,2013,2014,False,compilation,1
+track_0422,1vCWHaC5f2uS3yhpwWbIA6,Avicii,Wake Me Up,247426,2013,2014,False,album,1
+track_0423,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,Demons,175200,2012,2014,False,album,1
+track_0424,4AK6F7OLvEQ5QYCBNiQWHq,One Direction,Story of My Life,245490,2013,2014,False,album,1
+track_0425,5WUlDfRSoLAfcVSX1WnrxN,Sia,Chandelier,216120,2014,2014,False,album,1
+track_0426,5yG7ZAZafVaAlMTeBybKAL,Iggy Azalea,Black Widow,209423,2014,2014,True,album,2
+track_0427,2gsggkzM5R49q6jpPvazou,Jessie J,Bang Bang,199320,2014,2014,False,album,3
+track_0428,6nS5roXSAGhTGr34W6n7Et,Disclosure,Latch,255866,2013,2014,False,album,2
+track_0429,04gDigrS5kc9YWfZHwBETP,Maroon 5,Maps,189960,2014,2014,False,album,1
+track_0430,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Loyal (feat. Lil Wayne & Tyga),264938,2014,2014,True,album,3
+track_0431,0MlOPi3zIDMVrfA9R04Fe3,American Authors,Best Day Of My Life,194240,2014,2014,False,album,1
+track_0432,4NHQUGzhtTLFvgF5SZesLK,Tove Lo,Habits (Stay High),209160,2015,2014,False,compilation,1
+track_0433,7CajNmpbOovFoOoasH2HaY,Calvin Harris,Summer,222533,2014,2014,False,album,1
+track_0434,25uiPmTg16RbhZWAqwLBy5,Charli xcx,Boom Clap,169866,2014,2014,False,album,1
+track_0435,6vWDO969PvNqNYHIOW5v0m,Beyoncé,Drunk in Love (feat. JAŸ-Z),323480,2014,2014,True,album,2
+track_0436,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Anaconda,260239,2014,2014,True,album,1
+track_0437,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,Break Free,214840,2014,2014,False,album,2
+track_0438,7qG3b048QCHVRO5Pv1T5lw,Enrique Iglesias,Bailando - Spanish Version,243293,2014,2014,False,album,3
+track_0439,0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,Burn,231211,2013,2014,False,album,1
+track_0440,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,Wiggle (feat. Snoop Dogg),193295,2013,2014,False,album,2
+track_0441,6MDME20pz9RveH9rEXvrOM,Clean Bandit,Rather Be (feat. Jess Glynne),227833,2014,2014,False,album,2
+track_0442,3KV3p5EY4AvKxOlhGHORLg,Jeremih,Don't Tell 'Em,266840,2015,2014,True,album,2
+track_0443,6KZDXtSj0SzGOV705nNeh3,Kid Ink,Show Me (feat. Chris Brown),217800,2014,2014,True,album,2
+track_0444,5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,Wrecking Ball,221366,2013,2014,False,album,1
+track_0445,31TPClRtHm23RisEBtV3X7,Justin Timberlake,Not a Bad Thing,691757,2013,2014,True,album,1
+track_0446,6jJ0s89eD6GaHleKKya26X,Katy Perry,Roar,223546,2013,2014,False,album,1
+track_0447,74XFHRwlV6OrjEM0A2NCMF,Paramore,Ain't It Fun,296520,2013,2014,False,album,1
+track_0448,0id62QV2SZZfvBn9xpmuCl,Aloe Blacc,The Man,255906,2013,2014,False,album,1
+track_0449,3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,This Is How We Roll,220906,2013,2014,False,album,2
+track_0450,2l35CQqtYRh3d8ZIiBep4v,MKTO,Classic,175426,2012,2014,False,album,1
+track_0451,4gzpq5DPGxSnKTe4SA8HAU,Coldplay,A Sky Full of Stars,267866,2014,2014,False,album,1
+track_0452,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Don't,219840,2013,2014,False,album,1
+track_0453,2iojnBLj0qIMiKPvVhLnsH,Trey Songz,Na Na,231906,2015,2014,False,album,1
+track_0454,34Y0ldeyUv7jBvukWOGASO,Bobby Shmurda,Hot N*gga,194561,2014,2014,True,single,1
+track_0455,3TVXtAsR1Inumwj472S9r4,Drake,"Hold On, We're Going Home",227880,2013,2014,False,album,2
+track_0456,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Sing,235382,2013,2014,False,album,1
+track_0457,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,Radioactive,186813,2012,2014,False,album,1
+track_0458,0A0FS04o6zMoto8OKPsDwY,YG,My Nigga,235632,2014,2014,True,album,3
+track_0459,1PbBg2aYjWLKRk84zJK15x,Echosmith,Cool Kids,237626,2013,2014,False,album,1
+track_0460,1vCWHaC5f2uS3yhpwWbIA6,Avicii,Hey Brother,255093,2013,2014,False,album,1
+track_0461,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,Trumpets,217306,2013,2014,False,album,1
+track_0462,04gDigrS5kc9YWfZHwBETP,Maroon 5,Animals,231013,2014,2014,False,album,1
+track_0463,3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,Burnin' It Down,219160,2014,2014,False,album,1
+track_0464,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan,Play It Again,226866,2013,2014,False,album,1
+track_0465,0NIIxcxNHmOoyBx03SfTCD,Tinashe,2 On (feat. ScHoolboy Q),227000,2014,2014,True,album,2
+track_0466,3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,Dirt,230586,2014,2014,False,album,1
+track_0467,5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,Love Runs Out,224226,2014,2014,False,album,1
+track_0468,5q8HGNo0BjLWaTAhRtbwxa,Brantley Gilbert,Bottoms Up,220200,2014,2014,False,album,1
+track_0469,4obzFoKoKRHIphyHzJ35G3,Becky G,Shower,206166,2014,2014,False,single,1
+track_0470,0kkxsdcaWmWU2yWAqclDh4,Rixton,Me And My Broken Heart,193733,2014,2014,False,album,1
+track_0471,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,Animals,304228,2013,2014,False,single,1
+track_0472,5pU9lKGn9IUnVvOCONrcIS,Rich Gang,Lifestyle,269693,2014,2014,True,single,3
+track_0473,3grHWM9bx2E9vwJCdlRv9O,Kenny Chesney,American Kids,182982,2014,2014,False,album,1
+track_0474,2Sqr0DXoaYABbjBo9HaMkM,Sara Bareilles,Brave,220460,2013,2014,False,album,1
+track_0475,77SW9BnxLY8rJ0RciFqkHh,The Neighbourhood,Sweater Weather,240400,2013,2014,False,album,1
+track_0476,2kucQ9jQwuD8jWdtR9Ef38,Sam Hunt,Leave The Night On,192160,2014,2014,False,album,1
+track_0477,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,New Flame (feat. Usher & Rick Ross),244136,2014,2014,True,album,3
+track_0478,3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,Love Never Felt So Good,246480,2014,2014,False,album,2
+track_0479,7x8nK0m0cP2ksQf0mjWdPS,Dierks Bentley,Drunk On A Plane,254466,2014,2014,False,album,1
+track_0480,6jJ0s89eD6GaHleKKya26X,Katy Perry,Birthday,215042,2013,2014,False,album,1
+track_0481,32WkQRZEVKSzVAAYqukAEA,Lady A,Bartender,198274,2014,2014,False,album,1
+track_0482,1bT7m67vi78r2oqvxrP3X5,Naughty Boy,La La La,220152,2015,2014,False,album,2
+track_0483,0ZrpamOxcZybMHGg1AYtHP,Robin Thicke,Blurred Lines,263826,2013,2014,True,album,3
+track_0484,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Do What U Want,216573,2013,2014,True,single,2
+track_0485,0EmeFodog0BfCgMzAIvKQp,Shakira,Can't Remember to Forget You (feat. Rihanna),206866,2014,2014,False,album,2
+track_0486,5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,Amnesia,237247,2014,2014,False,album,1
+track_0487,4OBJLual30L7gRl5UkeRcT,T.I.,No Mediocre (feat. Iggy Azalea),202214,2014,2014,True,album,2
+track_0488,58R5LHkK3vkmEyGUPOR5kS,KONGOS,Come with Me Now,211960,2014,2014,False,album,1
+track_0489,55Aa2cqylxrFIXC767Z865,Lil Wayne,Believe Me,337640,2014,2014,True,single,2
+track_0490,0NWbwDZY1VkRqFafuQm6wk,Mike WiLL Made-It,23,252520,2013,2014,True,single,4
+track_0491,1n2pb9Tsfe4SwAjmUac6YT,Jake Owen,Beachin',191394,2013,2014,False,album,1
+track_0492,5BcAKTbp20cv7tC5VqPFoC,Macklemore & Ryan Lewis,White Walls (feat. ScHoolboy Q & Hollis),220319,2012,2014,True,album,5
+track_0493,5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,She Looks So Perfect,202496,2014,2014,False,album,1
+track_0494,2qxJFvFYMEDqd7ui6kSAcq,Zedd,Stay The Night - Featuring Hayley Williams Of Paramore,217346,2012,2014,False,album,2
+track_0495,6vWDO969PvNqNYHIOW5v0m,Beyoncé,Partition,319466,2014,2014,True,album,1
+track_0496,5IcR3N7QB1j6KBL8eImZ8m,ScHoolboy Q,Studio,278066,2014,2014,True,album,2
+track_0497,3TVXtAsR1Inumwj472S9r4,Drake,0 To 100 / The Catch Up,275226,2013,2014,True,single,1
+track_0498,5Zq7R5qmi58ByYyBQTlNuk,Lee Brice,I Don't Dance,221173,2014,2014,False,album,1
+track_0499,66lH4jAE7pqPlOlzUKbwA0,Miranda Lambert,Somethin' Bad (with Carrie Underwood),169600,2014,2014,False,album,2
+track_0500,5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,Adore You,278757,2013,2014,False,album,1
+track_0501,3hv9jJF3adDNsBSIQDqcjp,Mark Ronson,Uptown Funk (feat. Bruno Mars),269658,2015,2015,False,album,2
+track_0502,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Thinking out Loud,281560,2014,2015,False,album,1
+track_0503,137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,See You Again (feat. Charlie Puth),229525,2015,2015,False,single,2
+track_0504,6PXS4YHDkKvl1wkIl4V8DL,Fetty Wap,Trap Queen,222093,2015,2015,True,album,1
+track_0505,04gDigrS5kc9YWfZHwBETP,Maroon 5,Sugar,235492,2015,2015,True,album,1
+track_0506,6DIS6PRrLS3wbnZsf7vYic,WALK THE MOON,Shut Up and Dance,199080,2014,2015,False,album,1
+track_0507,7juKTDFlPesGeWQ1GmjmOv,Silentó,Watch Me (Whip / Nae Nae),185131,2015,2015,False,single,1
+track_0508,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",252226,2014,2015,False,single,1
+track_0509,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,The Hills,242253,2015,2015,True,album,1
+track_0510,5MouCg6ta7zAxsfMEbc1uh,OMI,Cheerleader,174190,2014,2015,False,single,1
+track_0511,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Can't Feel My Face,213520,2015,2015,False,album,1
+track_0512,0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,"Love Me Like You Do - From ""Fifty Shades Of Grey""",252538,2015,2015,False,single,1
+track_0513,2FXC3k01G6Gw61bmprjgqS,Hozier,Take Me To Church,241688,2014,2015,False,album,1
+track_0514,738wLrAtLtCtFOLvQBXOXp,Major Lazer,Lean On (feat. MØ & DJ Snake),176561,2015,2015,False,album,3
+track_0515,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,Want to Want Me,207719,2015,2015,False,album,1
+track_0516,1HxJeLhIuegM3KgvPn8sTa,Jack Ü,Where Are Ü Now (with Justin Bieber),250285,2015,2015,False,album,4
+track_0517,3QLIkT4rD2FMusaqmkepbq,Rachel Platten,Fight Song,203973,2015,2015,False,single,1
+track_0518,6PXS4YHDkKvl1wkIl4V8DL,Fetty Wap,679 (feat. Remy Boyz),196693,2015,2015,True,single,2
+track_0519,6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,Lips Are Movin,182114,2015,2015,False,album,1
+track_0520,1l8Fu6IkuTP0U5QetQJ5Xt,Fifth Harmony,Worth It (feat. Kid Ink),224573,2015,2015,False,album,2
+track_0521,0f5nVCcR06GX8Qikz0COtT,Omarion,Post to Be (feat. Chris Brown & Jhene Aiko),226580,2014,2015,True,album,3
+track_0522,2oX42qP5ineK3hrhBECLmj,Andy Grammer,"Honey, I'm Good",199666,2015,2015,False,single,1
+track_0523,2wY79sveU1sp5g7SokKOiI,Sam Smith,I'm Not The Only One,239316,2015,2015,False,album,1
+track_0524,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,Good For You,221560,2015,2015,True,single,2
+track_0525,6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,All About That Bass,188754,2014,2015,True,single,1
+track_0526,3TVXtAsR1Inumwj472S9r4,Drake,Hotline Bling,267023,2015,2015,False,single,1
+track_0527,1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",192560,2014,2015,False,album,4
+track_0528,0jnsk9HBra6NMjO2oANoPY,Flo Rida,GDFR (feat. Sage the Gemini & Lookas),190185,2014,2015,False,single,3
+track_0529,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,What Do You Mean?,205680,2015,2015,False,album,1
+track_0530,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Photograph,258986,2014,2015,False,album,1
+track_0531,4dpARuHxo51G3z768sgnrY,Adele,Hello,295493,2015,2015,False,single,1
+track_0532,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,Stitches,206880,2015,2015,False,album,1
+track_0533,4NHQUGzhtTLFvgF5SZesLK,Tove Lo,Talking Body,238426,2014,2015,True,album,1
+track_0534,4Rxn7Im3LGfyRkY2FlHhWi,Nick Jonas,Jealous,222226,2014,2015,False,single,1
+track_0535,0TnOYISbd1XYRBk9myaseg,Pitbull,Time of Our Lives,229358,2014,2015,True,album,2
+track_0536,4TH4BHy0LdBi3dpBW4P2UX,R. City,Locked Away (feat. Adam Levine),227475,2015,2015,False,album,2
+track_0537,2qdONMCoDngQk0eV4Avs1i,Natalie La Rose,Somebody,189906,2014,2015,False,single,2
+track_0538,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,FourFiveSeconds,188238,2015,2015,False,single,3
+track_0539,4UXqAaa6dQYAk18Lv7PEgX,Fall Out Boy,Centuries,228360,2015,2015,False,album,1
+track_0540,6PXS4YHDkKvl1wkIl4V8DL,Fetty Wap,My Way (feat. Monty),213053,2015,2015,True,single,2
+track_0541,2kucQ9jQwuD8jWdtR9Ef38,Sam Hunt,Take Your Time,243706,2014,2015,False,album,1
+track_0542,04gDigrS5kc9YWfZHwBETP,Maroon 5,Animals,231012,2015,2015,False,album,1
+track_0543,0c173mlxpT3dSFRgMO8XPh,Big Sean,I Don't Fuck With You,284386,2015,2015,True,album,2
+track_0544,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Bitch Better Have My Money,219305,2015,2015,True,single,1
+track_0545,5lHRUCqkQZCIWeX7xG4sYT,Rich Homie Quan,"Flex (Ooh, Ooh, Ooh)",176744,2015,2015,True,single,1
+track_0546,4MIULe6tfg2loNzBy5B9eu,T-Wayne,Nasty Freestyle,142212,2015,2015,True,single,1
+track_0547,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Only,312026,2014,2015,True,album,4
+track_0548,5WUlDfRSoLAfcVSX1WnrxN,Sia,Elastic Heart,257200,2014,2015,False,album,1
+track_0549,6S2OmqARrzebs0tKUEyXyp,Demi Lovato,Cool for the Summer,214739,2015,2015,True,album,1
+track_0550,3NPpFNZtSTHheNBaWC82rB,X Ambassadors,Renegades,195199,2015,2015,False,album,1
+track_0551,23zg3TcAtWQy7J6upgbUnj,USHER,I Don't Mind (feat. Juicy J),251989,2014,2015,True,single,2
+track_0552,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,Love Me Harder,236133,2014,2015,False,album,2
+track_0553,2wY79sveU1sp5g7SokKOiI,Sam Smith,Stay With Me,172723,2015,2015,False,album,1
+track_0554,540vIaP2JwjQb9dm3aArA4,DJ Snake,You Know You Like It,247266,2014,2015,False,single,2
+track_0555,4UXqAaa6dQYAk18Lv7PEgX,Fall Out Boy,Uma Thurman,211573,2015,2015,False,album,1
+track_0556,6vWDO969PvNqNYHIOW5v0m,Beyoncé,7/11,213506,2014,2015,False,album,1
+track_0557,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,The Heart Wants What It Wants,227360,2014,2015,False,album,1
+track_0558,3CygdxquGHurS7f9LjNLkv,Little Big Town,Girl Crush,193320,2014,2015,False,album,1
+track_0559,2iojnBLj0qIMiKPvVhLnsH,Trey Songz,Slow Motion,197854,2015,2015,False,album,1
+track_0560,4AK6F7OLvEQ5QYCBNiQWHq,One Direction,Drag Me Down,192106,2015,2015,False,single,1
+track_0561,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Truffle Butter,219226,2015,2015,True,single,3
+track_0562,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,One Last Time,197266,2014,2015,False,album,1
+track_0563,4Rxn7Im3LGfyRkY2FlHhWi,Nick Jonas,Chains,203106,2015,2015,False,album,1
+track_0564,20sxb77xiYeusSH8cVdatc,Meek Mill,All Eyes on You (feat. Chris Brown & Nicki Minaj),223973,2015,2015,True,album,3
+track_0565,7iZtZyCzp3LItcw1wtPI3D,Rae Sremmurd,No Type,200080,2015,2015,True,album,1
+track_0566,10exVja0key0uqUkk6LJRT,Vance Joy,Riptide,204280,2014,2015,False,album,1
+track_0567,4TsHKU8l8Wq7n7OPVikirn,Jidenna,Classic Man (feat. Roman GianArthur),222925,2015,2015,True,single,2
+track_0568,3bhu7P5PfngueRHiB9hjcx,Elle King,Ex's & Oh's,202177,2015,2015,False,album,1
+track_0569,6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,Dear Future Husband,184214,2015,2015,False,album,1
+track_0570,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,Marvin Gaye (feat. Meghan Trainor),190453,2015,2015,False,single,2
+track_0571,6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,Like I'm Gonna Lose You (feat. John Legend),225635,2015,2015,False,album,2
+track_0572,4NHQUGzhtTLFvgF5SZesLK,Tove Lo,Habits (Stay High),209160,2014,2015,False,album,1
+track_0573,2M4eNCvV3CJUswavkhAQg2,James Newton Howard,The Hanging Tree,218506,2014,2015,False,album,2
+track_0574,1Zatb2YN4erBOoSivOXc0o,O.T. Genasis,CoCo,239573,2014,2015,True,single,1
+track_0575,2gsggkzM5R49q6jpPvazou,Jessie J,Bang Bang,199373,2014,2015,False,single,3
+track_0576,2wY79sveU1sp5g7SokKOiI,Sam Smith,Lay Me Down,253208,2015,2015,False,album,1
+track_0577,3aGFCoR8xGN6DKwvdzeSja,ILOVEMAKONNEN,Tuesday (feat. Drake),321987,2014,2015,True,single,2
+track_0578,3GsIlcwgQDJVjHD82mbA0Z,iLoveMemphis,Hit the Quan - Original Version,181080,2015,2015,False,single,1
+track_0579,5BcAKTbp20cv7tC5VqPFoC,Macklemore & Ryan Lewis,"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",292593,2015,2015,True,single,5
+track_0580,2kucQ9jQwuD8jWdtR9Ef38,Sam Hunt,House Party,190240,2014,2015,False,album,1
+track_0581,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Ayo,225226,2015,2015,True,album,2
+track_0582,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan,Kick The Dust Up,190600,2015,2015,False,album,1
+track_0583,0c173mlxpT3dSFRgMO8XPh,Big Sean,Blessings,252040,2015,2015,True,album,2
+track_0584,2ysnwxxNtSgbb9t1m2Ur4j,George Ezra,Budapest,200720,2014,2015,False,album,1
+track_0585,5WUlDfRSoLAfcVSX1WnrxN,Sia,Chandelier,216120,2014,2015,False,album,1
+track_0586,3BmGtnKgCSGYIUhmivXKWX,Kelly Clarkson,Heartbeat Song,198741,2015,2015,False,album,1
+track_0587,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Don't,219840,2014,2015,False,album,1
+track_0588,7nDsS0l5ZAzMedVRKPP8F1,Ella Henderson,Ghost,216106,2014,2015,False,single,1
+track_0589,2wUjUUtkb5lvLKcGKsKqsR,Alessia Cara,Here,199453,2015,2015,False,single,1
+track_0590,33W1pnW9zScZtYTnAoWnOT,Mr. Probz,Waves - Robin Schulz Radio Edit,208133,2014,2015,False,single,2
+track_0591,1SupJlEpv7RS2tPNRaHViT,Nicky Jam,El Perdón - Forgiveness,206666,2015,2015,False,single,2
+track_0592,21E3waRsmPlU7jZsS13rcj,Ne-Yo,She Knows,214725,2015,2015,True,album,2
+track_0593,4AK6F7OLvEQ5QYCBNiQWHq,One Direction,Night Changes,226597,2014,2015,False,album,1
+track_0594,3TVXtAsR1Inumwj472S9r4,Drake,Back To Back,170637,2015,2015,True,single,1
+track_0595,7CajNmpbOovFoOoasH2HaY,Calvin Harris,How Deep Is Your Love,212495,2015,2015,False,single,2
+track_0596,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Blank Space,231826,2014,2015,False,album,1
+track_0597,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Shake It Off,219200,2014,2015,False,album,1
+track_0598,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Style,231000,2014,2015,False,album,1
+track_0599,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Wildest Dreams,220440,2014,2015,False,album,1
+track_0600,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Bad Blood,200106,2015,2015,False,single,2
+track_0601,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Love Yourself,233720,2015,2016,False,album,1
+track_0602,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Sorry,200786,2015,2016,False,album,1
+track_0603,3TVXtAsR1Inumwj472S9r4,Drake,One Dance,173986,2016,2016,False,album,3
+track_0604,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Work,219320,2016,2016,True,album,2
+track_0605,3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,Stressed Out,202333,2015,2016,False,album,1
+track_0606,7pFeBzX627ff0VnN6bxPR4,Desiigner,Panda,247866,2016,2016,True,single,1
+track_0607,4dpARuHxo51G3z768sgnrY,Adele,Hello,295502,2015,2016,False,album,1
+track_0608,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,Don't Let Me Down,208373,2016,2016,False,single,2
+track_0609,31TPClRtHm23RisEBtV3X7,Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",236001,2016,2016,False,single,1
+track_0610,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,Closer,244960,2016,2016,False,single,2
+track_0611,5WUlDfRSoLAfcVSX1WnrxN,Sia,Cheap Thrills (feat. Sean Paul),224813,2016,2016,False,single,2
+track_0612,25u4wHJWxCA9vO0CzxAbK7,Lukas Graham,7 Years,237300,2016,2016,False,album,1
+track_0613,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Needed Me,191600,2016,2016,True,album,1
+track_0614,0jnsk9HBra6NMjO2oANoPY,Flo Rida,My House,192190,2015,2016,False,album,1
+track_0615,2KsP6tYLJlTBvSUxnwlVWa,Mike Posner,I Took A Pill In Ibiza - Seeb Remix,197933,2016,2016,True,album,2
+track_0616,1l8Fu6IkuTP0U5QetQJ5Xt,Fifth Harmony,Work from Home (feat. Ty Dolla $ign),214477,2016,2016,False,album,2
+track_0617,7CajNmpbOovFoOoasH2HaY,Calvin Harris,This Is What You Came For,221900,2016,2016,False,single,2
+track_0618,6T5tfhQCknKG4UnH90qGnz,DNCE,Cake By The Ocean,219146,2016,2016,True,album,1
+track_0619,02kJSzxNuaWGqwubyUba0Z,G-Eazy,"Me, Myself & I",251465,2015,2016,True,album,2
+track_0620,3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,Ride,214506,2015,2016,False,album,1
+track_0621,3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,Heathens,195743,2016,2016,False,compilation,1
+track_0622,5ZsFI1h6hIdQRw2ti0hz81,ZAYN,PILLOWTALK,203686,2016,2016,True,single,1
+track_0623,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,Stitches,206880,2015,2016,False,album,1
+track_0624,3TVXtAsR1Inumwj472S9r4,Drake,Hotline Bling,267066,2016,2016,False,album,1
+track_0625,738wLrAtLtCtFOLvQBXOXp,Major Lazer,Cold Water,185360,2016,2016,False,single,3
+track_0626,4dpARuHxo51G3z768sgnrY,Adele,Send My Love (To Your New Lover),223078,2015,2016,False,album,1
+track_0627,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,Roses,226738,2015,2016,False,single,2
+track_0628,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,Treat You Better,187973,2017,2016,False,album,1
+track_0629,3TVXtAsR1Inumwj472S9r4,Drake,Too Good,263373,2016,2016,True,album,2
+track_0630,1RyvyyTE3xzB2ZywiAwp0i,Future,Low Life (feat. The Weeknd),313546,2016,2016,True,album,2
+track_0631,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,What Do You Mean?,205680,2015,2016,False,album,1
+track_0632,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,The Hills,242253,2015,2016,True,album,1
+track_0633,1KCSPY1glIKqW2TotWuXOR,P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",215413,2016,2016,False,single,1
+track_0634,5M0lbkGluOPXLeFjApw8r8,DRAM,Broccoli (feat. Lil Yachty),225205,2016,2016,True,album,2
+track_0635,2EMAnMvWE2eb56ToJVfCWs,Bryson Tiller,Don't,198294,2015,2016,True,album,1
+track_0636,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,Dangerous Woman,235946,2016,2016,False,album,1
+track_0637,3TVXtAsR1Inumwj472S9r4,Drake,Jumpman,205879,2015,2016,True,album,2
+track_0638,3iri9nBFs9e4wN7PLIetAw,gnash,"i hate u, i love u (feat. olivia o'brien)",251033,2016,2016,True,album,2
+track_0639,2wUjUUtkb5lvLKcGKsKqsR,Alessia Cara,Here,199453,2015,2016,False,album,1
+track_0640,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,Same Old Love,229080,2015,2016,False,album,1
+track_0641,3TVXtAsR1Inumwj472S9r4,Drake,Controlla,245226,2016,2016,True,album,1
+track_0642,6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,Like I'm Gonna Lose You (feat. John Legend),225635,2015,2016,False,album,2
+track_0643,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,One Call Away,194453,2016,2016,False,album,1
+track_0644,4EzkuveR9pLvDVFNx6foYD,James Bay,Let It Go,261160,2014,2016,False,single,1
+track_0645,6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,NO,213506,2017,2016,False,album,1
+track_0646,1Xylc3o4UrD53lo9CvFvVg,Zara Larsson,Never Forget You,212574,2017,2016,False,album,2
+track_0647,540vIaP2JwjQb9dm3aArA4,DJ Snake,Let Me Love You,205946,2016,2016,False,album,2
+track_0648,3jHBxvZ9gbBkZ17wKUqVsO,Kent Jones,Don't Mind,198236,2016,2016,True,single,1
+track_0649,3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,H.O.L.Y.,194186,2016,2016,False,album,1
+track_0650,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),217706,2016,2016,False,album,2
+track_0651,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,Into You,244453,2016,2016,False,album,1
+track_0652,4u5smJBskI6Adzv08PuiUP,Kiiara,Gold,225882,2015,2016,False,single,1
+track_0653,2EMAnMvWE2eb56ToJVfCWs,Bryson Tiller,Exchange,194613,2015,2016,True,album,1
+track_0654,6PXS4YHDkKvl1wkIl4V8DL,Fetty Wap,679 (feat. Remy Boyz),196693,2015,2016,True,single,2
+track_0655,3KV3p5EY4AvKxOlhGHORLg,Jeremih,oui,238320,2015,2016,False,album,1
+track_0656,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,Hands To Myself,200680,2015,2016,False,album,1
+track_0657,1gPhS1zisyXr5dHTYZyiMe,Kevin Gates,2 Phones,240000,2016,2016,True,album,1
+track_0658,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Starboy,230453,2016,2016,True,album,2
+track_0659,0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,For Free,183695,2016,2016,True,single,2
+track_0660,6nxWCVXbOlEVRexSbLsTer,Flume,Never Be Like You (feat. Kai),234909,2016,2016,True,single,2
+track_0661,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,In The Night,235653,2015,2016,True,album,1
+track_0662,6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,Me Too,181240,2017,2016,False,album,1
+track_0663,3bhu7P5PfngueRHiB9hjcx,Elle King,Ex's & Oh's,201853,2014,2016,False,single,1
+track_0664,6x2LnllRG5uGarZMsD4iO8,Thomas Rhett,Die A Happy Man,227426,2015,2016,False,album,1
+track_0665,246dkjvS1zLTtiykXe5h60,Post Malone,White Iverson,256532,2016,2016,True,album,1
+track_0666,4Rxn7Im3LGfyRkY2FlHhWi,Nick Jonas,Close,234213,2016,2016,False,album,2
+track_0667,3NPpFNZtSTHheNBaWC82rB,X Ambassadors,Unsteady,193546,2015,2016,False,album,1
+track_0668,55Aa2cqylxrFIXC767Z865,Lil Wayne,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",243490,2016,2016,True,compilation,6
+track_0669,6Ha4aES39QiVjR0L2lwuwq,Yo Gotti,Down In the DM (feat. Nicki Minaj) - Remix,258218,2016,2016,True,album,2
+track_0670,2jku7tDXc6XoB6MO2hFuqg,Tory Lanez,LUV,228640,2016,2016,True,album,1
+track_0671,6vWDO969PvNqNYHIOW5v0m,Beyoncé,Sorry,232560,2016,2016,True,album,1
+track_0672,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Can't Feel My Face,213520,2015,2016,False,album,1
+track_0673,4gzpq5DPGxSnKTe4SA8HAU,Coldplay,Hymn for the Weekend - Seeb Remix,212647,2016,2016,False,single,2
+track_0674,2jku7tDXc6XoB6MO2hFuqg,Tory Lanez,Say It,237786,2016,2016,True,album,1
+track_0675,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,Antidote,262693,2015,2016,True,album,1
+track_0676,2WzaAvm2bBCf4pEhyuDgCY,Ruth B.,Lost Boy,275280,2015,2016,False,single,1
+track_0677,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,Side To Side,226160,2016,2016,True,album,2
+track_0678,6Dd3NScHWwnW6obMFbl1BH,Daya,"Sit Still, Look Pretty",202221,2016,2016,False,album,1
+track_0679,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Wildest Dreams,220440,2014,2016,False,album,1
+track_0680,540vIaP2JwjQb9dm3aArA4,DJ Snake,Middle,220573,2016,2016,False,album,2
+track_0681,0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,On My Mind,213445,2015,2016,False,album,1
+track_0682,3TVXtAsR1Inumwj472S9r4,Drake,Pop Style,209453,2016,2016,True,single,2
+track_0683,4dpARuHxo51G3z768sgnrY,Adele,When We Were Young,290900,2015,2016,False,album,1
+track_0684,6Dd3NScHWwnW6obMFbl1BH,Daya,Hide Away,192376,2016,2016,False,album,1
+track_0685,738wLrAtLtCtFOLvQBXOXp,Major Lazer,Lean On,176561,2015,2016,False,album,3
+track_0686,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,I Know What You Did Last Summer,223853,2015,2016,False,album,2
+track_0687,3ScY9CQxNLQei8Umvpx5g6,Fat Joe,All The Way Up (feat. Infared),191942,2016,2016,True,single,4
+track_0688,7juKTDFlPesGeWQ1GmjmOv,Silentó,Watch Me (Whip / Nae Nae),185142,2015,2016,False,single,1
+track_0689,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Back To Sleep,201647,2015,2016,True,single,1
+track_0690,23zg3TcAtWQy7J6upgbUnj,USHER,No Limit (feat. Young Thug),228606,2016,2016,True,album,2
+track_0691,1Zatb2YN4erBOoSivOXc0o,O.T. Genasis,Cut It (feat. Young Dolph),222600,2015,2016,True,single,2
+track_0692,1gPhS1zisyXr5dHTYZyiMe,Kevin Gates,Really Really,232093,2016,2016,True,album,1
+track_0693,1l8Fu6IkuTP0U5QetQJ5Xt,Fifth Harmony,All In My Head (Flex) (feat. Fetty Wap),210582,2016,2016,False,album,2
+track_0694,5p7f24Rk5HkUZsaS3BLG5F,Hailee Steinfeld,Starving,181880,2016,2016,False,single,3
+track_0695,4gzpq5DPGxSnKTe4SA8HAU,Coldplay,Adventure of a Lifetime,263786,2015,2016,False,single,1
+track_0696,6roFdX1y5BYSbp60OTJWMd,Tim McGraw,Humble And Kind,257346,2015,2016,False,album,1
+track_0697,1RyvyyTE3xzB2ZywiAwp0i,Future,Wicked,173346,2016,2016,True,album,1
+track_0698,7pFeBzX627ff0VnN6bxPR4,Desiigner,Tiimmy Turner,239853,2016,2016,True,single,1
+track_0699,137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,See You Again (feat. Charlie Puth),229525,2015,2016,False,compilation,2
+track_0700,4AK6F7OLvEQ5QYCBNiQWHq,One Direction,Perfect,230333,2015,2016,False,single,1
+track_0701,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Shape of You,233712,2017,2017,False,album,1
+track_0702,4V8Sr092TqfHkfAA5fXXqG,Luis Fonsi,Despacito - Remix,228826,2017,2017,False,single,3
+track_0703,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,That's What I Like,206693,2016,2017,False,album,1
+track_0704,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,HUMBLE.,177000,2017,2017,True,album,1
+track_0705,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,Something Just Like This,247160,2017,2017,False,album,2
+track_0706,6oMuImdp5ZcFhWP0ESe6mG,Migos,Bad and Boujee (feat. Lil Uzi Vert),343150,2017,2017,True,album,2
+track_0707,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,Closer,244960,2016,2017,False,single,2
+track_0708,2kucQ9jQwuD8jWdtR9Ef38,Sam Hunt,Body Like A Back Road,165386,2017,2017,False,single,1
+track_0709,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,Believer,204346,2017,2017,False,album,1
+track_0710,246dkjvS1zLTtiykXe5h60,Post Malone,Congratulations,220293,2016,2017,True,album,2
+track_0711,4IWBUUAFIplrNtaOHcJPRM,James Arthur,Say You Won't Let Go,211477,2016,2017,False,album,1
+track_0712,0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",288876,2017,2017,True,album,5
+track_0713,4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,XO Tour Llif3,182706,2017,2017,True,album,1
+track_0714,1RyvyyTE3xzB2ZywiAwp0i,Future,Mask Off,204600,2017,2017,True,album,1
+track_0715,6vXTefBL93Dj5IqAWq6OTv,French Montana,Unforgettable,233901,2017,2017,True,album,2
+track_0716,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,24K Magic,225983,2016,2017,False,album,1
+track_0717,2qxJFvFYMEDqd7ui6kSAcq,Zedd,Stay,210090,2017,2017,False,single,2
+track_0718,0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,Wild Thoughts (feat. Rihanna & Bryson Tiller),204664,2017,2017,True,album,3
+track_0719,7iZtZyCzp3LItcw1wtPI3D,Rae Sremmurd,Black Beatles,291893,2016,2017,True,album,2
+track_0720,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Starboy,230453,2016,2017,True,album,2
+track_0721,6LuN9FCkKOj5PcnpouEgny,Khalid,Location,219080,2017,2017,False,album,1
+track_0722,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,Attention,211475,2017,2017,False,single,1
+track_0723,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,There's Nothing Holdin' Me Back,199440,2017,2017,False,album,1
+track_0724,4kYSro6naA4h99UJvo89HB,Cardi B,Bodak Yellow,223962,2017,2017,True,single,1
+track_0725,73sIBHcqh3Z3NyqHKZ7FOL,Childish Gambino,Redbone,326933,2016,2017,True,album,1
+track_0726,5ZsFI1h6hIdQRw2ti0hz81,ZAYN,I Don’t Wanna Live Forever (Fifty Shades Darker),245653,2017,2017,False,compilation,2
+track_0727,23fqKkggKUBHNkbKtXEls4,Kygo,It Ain't Me,216586,2017,2017,False,compilation,2
+track_0728,4qBgvVog0wzW75IQ48mU7v,KYLE,iSpy (feat. Lil Yachty),253106,2016,2017,True,single,2
+track_0729,0ZED1XzwlLHW4ZaG4lOT6m,Julia Michaels,Issues,176320,2017,2017,False,album,1
+track_0730,2wUjUUtkb5lvLKcGKsKqsR,Alessia Cara,Scars To Your Beautiful,230226,2015,2017,False,album,1
+track_0731,4xRYI6VqpkE3UwrDrAZL8L,Logic,1-800-273-8255,250173,2017,2017,True,album,3
+track_0732,1Hsdzj7Dlq2I7tHP7501T4,Niall Horan,Slow Hands,188174,2017,2017,False,single,1
+track_0733,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Love On The Brain,224000,2016,2017,True,album,1
+track_0734,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,I Feel It Coming,269186,2016,2017,False,album,2
+track_0735,0c173mlxpT3dSFRgMO8XPh,Big Sean,Bounce Back,222360,2017,2017,True,album,1
+track_0736,5pUo3fmmHT8bhCyHE52hA6,Liam Payne,Strip That Down,204502,2017,2017,False,single,2
+track_0737,3TVXtAsR1Inumwj472S9r4,Drake,Fake Love,210937,2017,2017,True,album,1
+track_0738,04gDigrS5kc9YWfZHwBETP,Maroon 5,Don't Wanna Know (feat. Kendrick Lamar),214265,2017,2017,False,album,2
+track_0739,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Look What You Made Me Do,211853,2017,2017,False,album,1
+track_0740,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Castle on the Hill,261153,2017,2017,False,album,1
+track_0741,6TIYQ3jFPwQSRmorSezPxX,mgk,Bad Things (with Camila Cabello),239293,2017,2017,False,album,2
+track_0742,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,Paris,221509,2017,2017,False,single,1
+track_0743,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,Side To Side,226160,2016,2017,True,album,2
+track_0744,6MDME20pz9RveH9rEXvrOM,Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),251088,2016,2017,False,single,3
+track_0745,4kI8Ie27vjvonwaB2ePh8T,Portugal. The Man,Feel It Still,163253,2017,2017,False,album,1
+track_0746,540vIaP2JwjQb9dm3aArA4,DJ Snake,Let Me Love You,205946,2016,2017,False,album,2
+track_0747,6S2OmqARrzebs0tKUEyXyp,Demi Lovato,Sorry Not Sorry,203760,2017,2017,True,album,1
+track_0748,1URnnhqYAYcrqrcwql10ft,21 Savage,Bank Account,220306,2017,2017,True,album,1
+track_0749,31TPClRtHm23RisEBtV3X7,Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",237546,2016,2017,False,compilation,1
+track_0750,1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,Mi Gente,189440,2017,2017,False,single,2
+track_0751,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,Thunder,187146,2017,2017,False,album,1
+track_0752,6oMuImdp5ZcFhWP0ESe6mG,Migos,T-Shirt,242407,2017,2017,True,album,1
+track_0753,6Ha4aES39QiVjR0L2lwuwq,Yo Gotti,Rake It Up (feat. Nicki Minaj),276333,2017,2017,True,album,2
+track_0754,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,Mercy,208733,2017,2017,False,album,1
+track_0755,46SHBwWsqBkxI7EeeBEQG7,Kodak Black,Tunnel Vision,268186,2017,2017,True,album,1
+track_0756,246dkjvS1zLTtiykXe5h60,Post Malone,rockstar,218320,2017,2017,True,single,2
+track_0757,0fiWOxhsBsQQvFDtxUQWo0,Brett Young,In Case You Didn't Know,224853,2017,2017,False,album,1
+track_0758,3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,Heathens,195920,2016,2017,False,single,1
+track_0759,26VFTg2z8YR0cCuwLzESi2,Halsey,Now Or Never,214801,2017,2017,False,album,1
+track_0760,3Gm5F95VdRxW3mqCn8RPBJ,Aminé,Caroline,209640,2017,2017,True,album,1
+track_0761,27mFvqQj8KpjmdKIqcw1mG,Ayo & Teo,Rolex,238586,2017,2017,False,single,1
+track_0762,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,DNA.,185946,2017,2017,True,album,1
+track_0763,7nKeLE1toRtW4M279iS26h,Zay Hilfigerrr,Juju on That Beat (TZ Anthem),144244,2016,2017,False,single,2
+track_0764,7iZtZyCzp3LItcw1wtPI3D,Rae Sremmurd,Swang,208120,2016,2017,True,album,1
+track_0765,3TVXtAsR1Inumwj472S9r4,Drake,Passionfruit,298940,2017,2017,True,album,1
+track_0766,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,LOYALTY. FEAT. RIHANNA.,227360,2017,2017,True,album,2
+track_0767,6LqNN22kT3074XbTVUrhzX,Kesha,Praying,230269,2017,2017,False,single,1
+track_0768,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,goosebumps,243836,2016,2017,True,album,1
+track_0769,04gDigrS5kc9YWfZHwBETP,Maroon 5,Cold (feat. Future),234308,2017,2017,True,album,2
+track_0770,5M0lbkGluOPXLeFjApw8r8,DRAM,Broccoli,225205,2016,2017,True,single,2
+track_0771,7CajNmpbOovFoOoasH2HaY,Calvin Harris,Slide (feat. Frank Ocean & Migos),230813,2017,2017,True,single,3
+track_0772,3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,What Ifs (feat. Lauren Alaina),188270,2016,2017,False,album,2
+track_0773,6jJ0s89eD6GaHleKKya26X,Katy Perry,Chained To The Rhythm,237734,2017,2017,False,album,2
+track_0774,7CajNmpbOovFoOoasH2HaY,Calvin Harris,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",223413,2017,2017,True,album,5
+track_0775,50JJSqHUf2RQ9xsHs0KMHg,Jon Bellion,All Time Low,217603,2016,2017,True,album,1
+track_0776,718COspgdWOnwOFpJHRZHS,Luke Combs,Hurricane,223306,2017,2017,False,album,1
+track_0777,2wY79sveU1sp5g7SokKOiI,Sam Smith,Too Good At Goodbyes,201000,2017,2017,False,album,1
+track_0778,6LuN9FCkKOj5PcnpouEgny,Khalid,Young Dumb & Broke,202534,2017,2017,False,album,1
+track_0779,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,Magnolia,181812,2017,2017,True,album,1
+track_0780,7tYKF4w9nC0nq9CsPZTHyP,SZA,Love Galore (feat. Travis Scott),275085,2017,2017,True,album,2
+track_0781,31W5EY0aAly4Qieq6OFu6I,A Boogie Wit da Hoodie,Drowning (feat. Kodak Black),209269,2017,2017,True,album,2
+track_0782,5p7f24Rk5HkUZsaS3BLG5F,Hailee Steinfeld,Starving,181880,2016,2017,False,single,3
+track_0783,13y7CgLHjMVRMDqxdx0Xdo,Gucci Mane,Both (feat. Drake),190311,2016,2017,True,album,2
+track_0784,1KCSPY1glIKqW2TotWuXOR,P!nk,What About Us,269595,2017,2017,False,album,1
+track_0785,07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,Swalla (feat. Nicki Minaj & Ty Dolla $ign),216408,2017,2017,True,single,3
+track_0786,6oMuImdp5ZcFhWP0ESe6mG,Migos,Slippery (feat. Gucci Mane),304041,2017,2017,True,album,2
+track_0787,6KImCVD70vtIoJWnq6nGn3,Harry Styles,Sign of the Times,340706,2017,2017,False,album,1
+track_0788,4dpARuHxo51G3z768sgnrY,Adele,Water Under the Bridge,240426,2016,2017,False,album,1
+track_0789,5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,Malibu,231905,2017,2017,False,single,1
+track_0790,1xHQO9GJIW9OXHxGBISYc5,Marian Hill,Down,197773,2016,2017,False,album,1
+track_0791,7DMveApC7UnC2NPfPvlHSU,Cheat Codes,No Promises (feat. Demi Lovato),222786,2017,2017,False,single,2
+track_0792,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,Treat You Better,187973,2017,2017,False,album,1
+track_0793,13y7CgLHjMVRMDqxdx0Xdo,Gucci Mane,I Get the Bag (feat. Migos),233087,2017,2017,True,album,2
+track_0794,1dID9zgn0OV0Y8ud7Mh2tS,Dustin Lynch,Small Town Boy,205733,2017,2017,False,album,1
+track_0795,5Berubt6ysOy2LCMyqhmXP,YFN Lucci,Everyday We Lit (feat. PnB Rock),197170,2017,2017,True,album,2
+track_0796,4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,Havana (feat. Young Thug),216896,2017,2017,False,single,2
+track_0797,04gDigrS5kc9YWfZHwBETP,Maroon 5,What Lovers Do (feat. SZA),199849,2017,2017,False,album,2
+track_0798,2cFrymmkijnjDg9SS92EPM,blackbear,do re mi,212027,2017,2017,True,album,1
+track_0799,15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,Look At Me!,126345,2017,2017,True,single,1
+track_0800,0u2FHSq3ln94y5Q57xazwf,Keith Urban,The Fighter,184040,2016,2017,False,album,2
+track_0801,3TVXtAsR1Inumwj472S9r4,Drake,God's Plan,198973,2018,2018,True,album,1
+track_0802,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Perfect,263400,2017,2018,False,album,1
+track_0803,64M6ah0SkkRsnPGtGiRAbb,Bebe Rexha,Meant to Be (feat. Florida Georgia Line),163870,2017,2018,False,single,2
+track_0804,4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,Havana (feat. Young Thug),217308,2018,2018,False,album,2
+track_0805,246dkjvS1zLTtiykXe5h60,Post Malone,rockstar (feat. 21 Savage),218146,2018,2018,True,album,2
+track_0806,246dkjvS1zLTtiykXe5h60,Post Malone,Psycho (feat. Ty Dolla $ign),221440,2018,2018,True,album,2
+track_0807,4kYSro6naA4h99UJvo89HB,Cardi B,I Like It,253390,2018,2018,True,album,3
+track_0808,2qxJFvFYMEDqd7ui6kSAcq,Zedd,The Middle,184732,2018,2018,False,single,3
+track_0809,3TVXtAsR1Inumwj472S9r4,Drake,In My Feelings,217925,2018,2018,True,album,1
+track_0810,04gDigrS5kc9YWfZHwBETP,Maroon 5,Girls Like You (feat. Cardi B) - Cardi B Version,235545,2018,2018,True,album,2
+track_0811,3TVXtAsR1Inumwj472S9r4,Drake,Nice For What,210746,2018,2018,True,album,1
+track_0812,4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,Lucid Dreams,239835,2018,2018,True,album,1
+track_0813,246dkjvS1zLTtiykXe5h60,Post Malone,Better Now,231266,2018,2018,True,album,1
+track_0814,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,Finesse - Remix; feat. Cardi B,217288,2017,2018,False,single,2
+track_0815,7HkdQ0gt53LP4zmHsL0nap,Ella Mai,Boo'd Up,239341,2018,2018,False,album,1
+track_0816,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,New Rules,209320,2017,2018,False,album,1
+track_0817,15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,SAD!,166605,2018,2018,True,album,1
+track_0818,4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,Never Be the Same,226986,2018,2018,False,album,1
+track_0819,6LuN9FCkKOj5PcnpouEgny,Khalid,Love Lies,201707,2018,2018,True,single,2
+track_0820,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,no tears left to cry,205920,2018,2018,False,album,1
+track_0821,4GvEc3ANtPPjt1ZJllr5Zl,Bazzi,Mine,131064,2018,2018,True,album,1
+track_0822,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,Thunder,187146,2017,2018,False,album,1
+track_0823,4TEJudQY2pXxVHPE3gD2EU,BlocBoy JB,Look Alive (feat. Drake),181414,2018,2018,True,album,2
+track_0824,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Delicate,232253,2017,2018,False,album,1
+track_0825,5f7VJjfbwm532GiveGC0ZK,Lil Baby,Yes Indeed,142273,2018,2018,True,album,2
+track_0826,64KEffDW9EtZ1y2vBYgq8T,Marshmello,FRIENDS,202620,2018,2018,True,single,2
+track_0827,26VFTg2z8YR0cCuwLzESi2,Halsey,Bad At Love,181279,2017,2018,False,album,1
+track_0828,5LHRHt1k9lMyONurDHEdrp,Tyga,Taste (feat. Offset),229210,2019,2018,True,album,2
+track_0829,6fOMl44jA4Sp5b9PpYCkzz,NF,Let You Down,212120,2017,2018,False,album,1
+track_0830,02kJSzxNuaWGqwubyUba0Z,G-Eazy,No Limit,245386,2017,2018,True,album,3
+track_0831,7gZfnEnfiaHzxARJ2LeXrf,6ix9ine,FEFE (feat. Nicki Minaj & Murda Beatz),179404,2018,2018,True,single,3
+track_0832,7z5WFjZAIYejWy0NI5lv4T,Dan + Shay,Tequila,196746,2018,2018,False,album,1
+track_0833,4kI8Ie27vjvonwaB2ePh8T,Portugal. The Man,Feel It Still,163253,2017,2018,False,album,1
+track_0834,6oMuImdp5ZcFhWP0ESe6mG,Migos,MotorSport,303076,2018,2018,True,album,3
+track_0835,5JZ7CnR6gTvEMKX4g70Amv,Lauv,I Like Me Better,197436,2018,2018,False,album,1
+track_0836,5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,Youngblood,203417,2018,2018,False,album,1
+track_0837,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,Whatever It Takes,201240,2017,2018,False,album,1
+track_0838,4DdkRBBYG6Yk9Ka8tdJ9BW,Offset,Ric Flair Drip (with Metro Boomin),172800,2017,2018,True,album,2
+track_0839,246dkjvS1zLTtiykXe5h60,Post Malone,I Fall Apart,223346,2016,2018,True,album,1
+track_0840,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Pray For Me (with Kendrick Lamar),211440,2018,2018,True,album,2
+track_0841,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,Back To You - From 13 Reasons Why – Season 2 Soundtrack,207904,2018,2018,False,single,1
+track_0842,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,SICKO MODE,312820,2018,2018,True,album,1
+track_0843,6oMuImdp5ZcFhWP0ESe6mG,Migos,Walk It Talk It,276147,2018,2018,True,album,2
+track_0844,3wyVrVrFCkukjdVIdirGVY,Lil Pump,Gucci Gang,124055,2017,2018,True,album,1
+track_0845,02kJSzxNuaWGqwubyUba0Z,G-Eazy,Him & I (with Halsey),268866,2017,2018,True,album,2
+track_0846,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,In My Blood,211293,2019,2018,False,album,1
+track_0847,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,"All The Stars (with SZA) - From ""Black Panther: The Album""",232186,2018,2018,True,album,2
+track_0848,6oMuImdp5ZcFhWP0ESe6mG,Migos,Stir Fry,190288,2018,2018,True,album,1
+track_0849,2wY79sveU1sp5g7SokKOiI,Sam Smith,Too Good At Goodbyes,201000,2017,2018,False,album,1
+track_0850,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,LOVE. FEAT. ZACARI.,213400,2017,2018,False,album,2
+track_0851,73sIBHcqh3Z3NyqHKZ7FOL,Childish Gambino,This Is America,225773,2018,2018,True,single,1
+track_0852,3TVXtAsR1Inumwj472S9r4,Drake,Nonstop,238614,2018,2018,True,album,1
+track_0853,3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,Heaven,177333,2017,2018,False,album,1
+track_0854,4kYSro6naA4h99UJvo89HB,Cardi B,Bodak Yellow,223712,2018,2018,True,album,1
+track_0855,1tqhsYv8yBBdwANFNzHtcr,Lil Dicky,Freaky Friday (feat. Chris Brown),216631,2018,2018,True,single,2
+track_0856,7gZfnEnfiaHzxARJ2LeXrf,6ix9ine,GUMMO,157643,2018,2018,True,album,1
+track_0857,1pPmIToKXyGdsCF6LmqLmI,Rich The Kid,Plug Walk,175229,2018,2018,True,album,1
+track_0858,04gDigrS5kc9YWfZHwBETP,Maroon 5,Wait,190642,2018,2018,False,album,1
+track_0859,4kYSro6naA4h99UJvo89HB,Cardi B,Be Careful,210787,2018,2018,True,album,1
+track_0860,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,Wolves,197993,2017,2018,False,single,2
+track_0861,4kYSro6naA4h99UJvo89HB,Cardi B,Bartier Cardi (feat. 21 Savage),224284,2018,2018,True,album,2
+track_0862,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,God is a woman,197546,2018,2018,True,album,1
+track_0863,0A0FS04o6zMoto8OKPsDwY,YG,"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",237240,2018,2018,True,album,4
+track_0864,6S2OmqARrzebs0tKUEyXyp,Demi Lovato,Sorry Not Sorry,203760,2017,2018,True,album,1
+track_0865,6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,How Long,200853,2018,2018,False,album,1
+track_0866,1bqxdqvUtPWZri43cKHac8,MAX,Lights Down Low,225013,2016,2018,False,single,2
+track_0867,6LuN9FCkKOj5PcnpouEgny,Khalid,Young Dumb & Broke,202534,2017,2018,False,album,1
+track_0868,7CajNmpbOovFoOoasH2HaY,Calvin Harris,One Kiss (with Dua Lipa),214846,2018,2018,False,single,2
+track_0869,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,Natural,189466,2018,2018,False,album,1
+track_0870,3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,You Make It Easy,193226,2018,2018,False,album,1
+track_0871,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Shape of You,233712,2017,2018,False,album,1
+track_0872,13y7CgLHjMVRMDqxdx0Xdo,Gucci Mane,I Get the Bag (feat. Migos),233087,2017,2018,True,album,2
+track_0873,0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,"No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",260000,2019,2018,True,album,4
+track_0874,5dHt1vcEm9qb8fCyLcB3HL,A$AP Ferg,Plain Jane REMIX (feat. Nicki Minaj),202636,2017,2018,True,single,2
+track_0875,360IAlyVv4PCEVjgyMZrxK,Miguel,Sky Walker (feat. Travis Scott),259334,2017,2018,True,album,2
+track_0876,6x2LnllRG5uGarZMsD4iO8,Thomas Rhett,Marry Me,205453,2017,2018,False,album,1
+track_0877,5CiGnKThu5ctn9pBxv7DGa,benny blanco,Eastside (with Halsey & Khalid),170769,2018,2018,False,album,3
+track_0878,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Call Out My Name,228373,2018,2018,False,single,1
+track_0879,28ExwzUQsvgJooOI0X1mr3,Jay Rock,"King's Dead (with Kendrick Lamar, Future & James Blake)",225266,2018,2018,True,album,4
+track_0880,64KEffDW9EtZ1y2vBYgq8T,Marshmello,Happier,214289,2018,2018,False,single,2
+track_0881,5hdhHgpxyniooUiQVaPxQ0,Nio Garcia,Te Boté - Remix,417920,2018,2018,True,single,6
+track_0882,3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,Simple,185200,2019,2018,False,album,1
+track_0883,5wPoxI5si3eJsYYwyXV4Wi,N.E.R.D,Lemon,219706,2017,2018,True,album,3
+track_0884,4xRYI6VqpkE3UwrDrAZL8L,Logic,1-800-273-8255,250173,2017,2018,True,album,3
+track_0885,31TPClRtHm23RisEBtV3X7,Justin Timberlake,Say Something (feat. Chris Stapleton),278895,2018,2018,False,album,2
+track_0886,3TVXtAsR1Inumwj472S9r4,Drake,I'm Upset,214466,2018,2018,True,album,1
+track_0887,3grHWM9bx2E9vwJCdlRv9O,Kenny Chesney,Get Along,199625,2018,2018,False,album,1
+track_0888,15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,Moonlight,135090,2018,2018,True,album,1
+track_0889,04gDigrS5kc9YWfZHwBETP,Maroon 5,What Lovers Do (feat. SZA),199849,2018,2018,False,album,2
+track_0890,1SupJlEpv7RS2tPNRaHViT,Nicky Jam,X,172854,2019,2018,False,album,2
+track_0891,7wlFDEWiM5OoIAt8RSli8b,YoungBoy Never Broke Again,Outside Today,129105,2018,2018,True,album,1
+track_0892,7HkdQ0gt53LP4zmHsL0nap,Ella Mai,Trip,213993,2018,2018,False,album,1
+track_0893,4VMYDCV2IEDYJArk749S6m,Daddy Yankee,Dura,200480,2018,2018,False,single,1
+track_0894,15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,changes,121886,2018,2018,False,album,1
+track_0895,0fiWOxhsBsQQvFDtxUQWo0,Brett Young,Mercy,217120,2017,2018,False,album,1
+track_0896,718COspgdWOnwOFpJHRZHS,Luke Combs,One Number Away,222573,2018,2018,False,album,1
+track_0897,7iZtZyCzp3LItcw1wtPI3D,Rae Sremmurd,Powerglide (feat. Juicy J) - From SR3MM,332300,2018,2018,True,album,4
+track_0898,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,IDGAF,217946,2017,2018,True,album,1
+track_0899,1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,Mi Gente (feat. Beyoncé),209733,2017,2018,False,single,3
+track_0900,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,Believer,204346,2017,2018,False,album,1
+track_0901,7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,Old Town Road (feat. Billy Ray Cyrus) - Remix,157066,2019,2019,False,single,2
+track_0902,246dkjvS1zLTtiykXe5h60,Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,158040,2018,2019,False,compilation,2
+track_0903,26VFTg2z8YR0cCuwLzESi2,Halsey,Without Me,201660,2018,2019,True,single,1
+track_0904,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,bad guy,194087,2019,2019,False,album,1
+track_0905,246dkjvS1zLTtiykXe5h60,Post Malone,Wow.,149520,2018,2019,True,single,1
+track_0906,64KEffDW9EtZ1y2vBYgq8T,Marshmello,Happier,214289,2018,2019,False,single,2
+track_0907,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,7 rings,178640,2019,2019,True,single,1
+track_0908,6LuN9FCkKOj5PcnpouEgny,Khalid,Talk (feat. Disclosure),197573,2019,2019,False,album,2
+track_0909,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,SICKO MODE,312820,2018,2019,True,album,1
+track_0910,7gOdHgIoIKoe4i9Tta6qdD,Jonas Brothers,Sucker,181040,2019,2019,False,single,1
+track_0911,20JZFwl6HVl6yg8a4H3ZqK,Panic! At The Disco,High Hopes,190946,2018,2019,False,album,1
+track_0912,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,"thank u, next",207333,2018,2019,True,single,1
+track_0913,56oDRnqbIiwx4mymNEv7dS,Lizzo,Truth Hurts,173325,2019,2019,True,album,1
+track_0914,2wY79sveU1sp5g7SokKOiI,Sam Smith,Dancing With A Stranger (with Normani),171029,2019,2019,False,single,2
+track_0915,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,Señorita,190960,2019,2019,False,single,2
+track_0916,1WsYCXdezMjn0KoIrLvMmC,Ed Sheeran & Justin Bieber,I Don't Care (with Justin Bieber),219946,2019,2019,False,single,2
+track_0917,5CiGnKThu5ctn9pBxv7DGa,benny blanco,Eastside (with Halsey & Khalid),173799,2018,2019,False,single,3
+track_0918,20sxb77xiYeusSH8cVdatc,Meek Mill,Going Bad (feat. Drake),180522,2018,2019,True,album,2
+track_0919,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Shallow,215733,2018,2019,False,album,2
+track_0920,6LuN9FCkKOj5PcnpouEgny,Khalid,Better,229412,2018,2019,True,single,1
+track_0921,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,No Guidance (feat. Drake),260640,2019,2019,True,single,2
+track_0922,04gDigrS5kc9YWfZHwBETP,Maroon 5,Girls Like You (feat. Cardi B) - Cardi B Version,235545,2018,2019,True,single,2
+track_0923,4npEfmQ6YuiwW1GpUmaq3F,Ava Max,Sweet but Psycho,187436,2018,2019,False,single,1
+track_0924,4r63FhuTkUYltbVAg5TQnk,DaBaby,Suge,163320,2019,2019,True,album,1
+track_0925,6l3HvQ5sa6mXTsMTB19rO5,J. Cole,MIDDLE CHILD,213593,2019,2019,True,single,1
+track_0926,5f7VJjfbwm532GiveGC0ZK,Lil Baby,Drip Too Hard (Lil Baby & Gunna),145542,2018,2019,True,album,2
+track_0927,4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,Someone You Loved,182160,2019,2019,False,album,1
+track_0928,4Ga1P7PMIsmqEZqhYZQgDo,Lil Tecca,Ransom,131280,2019,2019,True,single,1
+track_0929,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,If I Can't Have You,190800,2019,2019,False,single,1
+track_0930,246dkjvS1zLTtiykXe5h60,Post Malone,Goodbyes (Feat. Young Thug),174960,2019,2019,True,single,2
+track_0931,46SHBwWsqBkxI7EeeBEQG7,Kodak Black,ZEZE (feat. Travis Scott & Offset),228759,2018,2019,True,album,3
+track_0932,246dkjvS1zLTtiykXe5h60,Post Malone,Better Now,231266,2018,2019,True,album,1
+track_0933,5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,Youngblood,203417,2018,2019,False,album,1
+track_0934,3TVXtAsR1Inumwj472S9r4,Drake,Money In The Grave (Drake ft. Rick Ross),205426,2019,2019,True,single,2
+track_0935,7z5WFjZAIYejWy0NI5lv4T,Dan + Shay,Speechless,212745,2018,2019,False,single,1
+track_0936,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,"break up with your girlfriend, i'm bored",190440,2019,2019,True,album,1
+track_0937,4kYSro6naA4h99UJvo89HB,Cardi B,Please Me,200889,2019,2019,True,single,2
+track_0938,4kYSro6naA4h99UJvo89HB,Cardi B,Money,183527,2018,2019,True,single,1
+track_0939,06HL4z0CvFAxyc27GXpf02,Taylor Swift,You Need To Calm Down,171386,2019,2019,False,single,1
+track_0940,7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,Panini,114893,2019,2019,False,album,1
+track_0941,31W5EY0aAly4Qieq6OFu6I,A Boogie Wit da Hoodie,Look Back at It,179449,2018,2019,True,album,1
+track_0942,1URnnhqYAYcrqrcwql10ft,21 Savage,a lot,288624,2018,2019,True,album,1
+track_0943,06HL4z0CvFAxyc27GXpf02,Taylor Swift,ME! (feat. Brendon Urie of Panic! At The Disco),193040,2019,2019,False,single,3
+track_0944,4q3ewBCX7sLwd24euuV69X,Bad Bunny,MIA (feat. Drake),210367,2018,2019,False,single,2
+track_0945,6AgTAQt8XS6jRWi4sX7w49,Polo G,Pop Out (feat. Lil Tjay),166640,2019,2019,True,single,2
+track_0946,718COspgdWOnwOFpJHRZHS,Luke Combs,Beautiful Crazy,193466,2018,2019,False,album,1
+track_0947,3Fl1V19tmjt57oBdxXKAjJ,Blueface,Thotiana,129264,2018,2019,True,album,1
+track_0948,4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,Lucid Dreams,239835,2018,2019,True,album,1
+track_0949,2RDOrhPqAM4jzTRCEb19qX,Sheck Wes,Mo Bamba,183906,2018,2019,True,album,1
+track_0950,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Beautiful People (feat. Khalid),197866,2019,2019,False,single,2
+track_0951,13y7CgLHjMVRMDqxdx0Xdo,Gucci Mane,Wake Up in the Sky,204664,2018,2019,True,single,3
+track_0952,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Whiskey Glasses,234346,2018,2019,False,album,1
+track_0953,1UTPBmNbXNTittyMJrNkvw,Blake Shelton,God's Country,205106,2019,2019,False,single,1
+track_0954,3QSQFmccmX81fWCUSPTS7y,Dean Lewis,Be Alright,196373,2018,2019,True,single,1
+track_0955,0YinUQ50QDB7ZxSCLyQ40k,Mustard,Pure Water (with Migos),194519,2019,2019,True,single,2
+track_0956,3yzRiNMZdTsSUgplcyYZ4i,Blanco Brown,The Git Up,200593,2019,2019,False,single,1
+track_0957,540vIaP2JwjQb9dm3aArA4,DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",212500,2018,2019,True,single,4
+track_0958,0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,Close To Me (with Diplo) (feat. Swae Lee),182623,2018,2019,True,single,3
+track_0959,0HkcYmcjrBR3SCw9Ld5VZk,Calboy,Envy Me,120136,2018,2019,True,single,1
+track_0960,40LHVA5BTQp9RxHOQ9JPYj,Lauren Daigle,You Say,274693,2018,2019,False,album,1
+track_0961,20JZFwl6HVl6yg8a4H3ZqK,Panic! At The Disco,"Hey Look Ma, I Made It",169666,2018,2019,False,album,1
+track_0962,246dkjvS1zLTtiykXe5h60,Post Malone,Circles,215280,2019,2019,False,album,1
+track_0963,718COspgdWOnwOFpJHRZHS,Luke Combs,Beer Never Broke My Heart,186800,2019,2019,False,single,1
+track_0964,50co4Is1HCEo8bhOyUWKpn,Young Thug,The London (feat. J. Cole & Travis Scott),200106,2019,2019,True,single,3
+track_0965,4VMYDCV2IEDYJArk749S6m,Daddy Yankee,Con Calma - Remix,181280,2019,2019,False,single,3
+track_0966,1cNDP5yjU5vjeR8qMf4grg,YNW Melly,Murder on My Mind,268434,2018,2019,True,album,1
+track_0967,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,when the party's over,196077,2019,2019,False,album,1
+track_0968,37hAfseJWi0G3Scife12Il,City Girls,Act Up,158332,2018,2019,True,album,1
+track_0969,4kYSro6naA4h99UJvo89HB,Cardi B,I Like It,253390,2018,2019,True,album,3
+track_0970,3KwmxIhSe9UTSEF37kwngR,SHAED,Trampoline,184060,2018,2019,False,single,1
+track_0971,2HUwZ0kumzCSlhFcjFZfpp,Flipp Dinero,Leave Me Alone,195637,2018,2019,True,single,1
+track_0972,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,breathin,198160,2018,2019,True,album,1
+track_0973,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,bury a friend,193143,2019,2019,False,album,1
+track_0974,5f7VJjfbwm532GiveGC0ZK,Lil Baby,Close Friends (Lil Baby & Gunna),203881,2018,2019,True,album,1
+track_0975,7cTXfwpe9peK0UE1bZyIWZ,Pinkfong,Baby Shark,80927,2017,2019,False,album,1
+track_0976,6cK3NBO6uP7hh0oyuVELFl,Saweetie,My Type,126446,2019,2019,True,album,1
+track_0977,7meyrw7Or5DwteYxDJrkCM,YK Osiris,Worth It,189253,2019,2019,False,single,1
+track_0978,7gOdHgIoIKoe4i9Tta6qdD,Jonas Brothers,Only Human,183000,2019,2019,False,album,1
+track_0979,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan,Knockin' Boots,199382,2019,2019,False,single,1
+track_0980,7HkdQ0gt53LP4zmHsL0nap,Ella Mai,Trip,213993,2018,2019,False,album,1
+track_0981,5Zq7R5qmi58ByYyBQTlNuk,Lee Brice,Rumor,198440,2017,2019,False,album,1
+track_0982,31W5EY0aAly4Qieq6OFu6I,A Boogie Wit da Hoodie,Swervin (feat. 6ix9ine),189486,2018,2019,True,album,2
+track_0983,2wY79sveU1sp5g7SokKOiI,Sam Smith,How Do You Sleep?,202204,2019,2019,False,single,1
+track_0984,6i392l38cR3uBPF0DbNs7S,Quality Control,Baby (Lil Baby feat. DaBaby),142417,2019,2019,True,album,3
+track_0985,6x2LnllRG5uGarZMsD4iO8,Thomas Rhett,Look What God Gave Her,168960,2019,2019,False,album,1
+track_0986,3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,Good as You,192053,2018,2019,False,album,1
+track_0987,4DdkRBBYG6Yk9Ka8tdJ9BW,Offset,Clout (feat. Cardi B),205803,2019,2019,True,album,2
+track_0988,6LuN9FCkKOj5PcnpouEgny,Khalid,Love Lies,201707,2018,2019,True,single,2
+track_0989,64KEffDW9EtZ1y2vBYgq8T,Marshmello,One Thing Right,181823,2019,2019,False,single,2
+track_0990,181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,Cash Shit (feat. DaBaby),192539,2019,2019,True,album,2
+track_0991,7z5WFjZAIYejWy0NI5lv4T,Dan + Shay,Tequila,196746,2018,2019,False,album,1
+track_0992,0ErzCpIMyLcjPiwT4elrtZ,NLE Choppa,Shotta Flow,160013,2019,2019,True,single,1
+track_0993,181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),199427,2019,2019,True,single,3
+track_0994,3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,Talk You Out Of It,202920,2019,2019,False,album,1
+track_0995,4GvEc3ANtPPjt1ZJllr5Zl,Bazzi,Beautiful (feat. Camila Cabello),180000,2018,2019,False,single,2
+track_0996,6pBNfggcZZDCmb0p92OnGn,Chase Rice,Eyes On You,182493,2017,2019,False,album,1
+track_0997,7z5WFjZAIYejWy0NI5lv4T,Dan + Shay,All To Myself,169612,2018,2019,False,single,1
+track_0998,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,boyfriend (with Social House),186106,2019,2019,True,single,2
+track_0999,1KCSPY1glIKqW2TotWuXOR,P!nk,Walk Me Home,177390,2019,2019,False,single,1
+track_1000,4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,Robbery,240050,2019,2019,True,album,1
+track_1001,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Blinding Lights,200040,2020,2020,False,album,1
+track_1002,246dkjvS1zLTtiykXe5h60,Post Malone,Circles,215280,2019,2020,False,album,1
+track_1003,757aE44tKEUQEqRuT6GnEB,Roddy Ricch,The Box,196652,2019,2020,True,album,1
+track_1004,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,Don't Start Now,183290,2020,2020,False,album,1
+track_1005,4r63FhuTkUYltbVAg5TQnk,DaBaby,ROCKSTAR (feat. Roddy Ricch),181733,2020,2020,True,album,2
+track_1006,6KImCVD70vtIoJWnq6nGn3,Harry Styles,Adore You,207139,2019,2020,False,album,1
+track_1007,1RyvyyTE3xzB2ZywiAwp0i,Future,Life Is Good (feat. Drake),237918,2020,2020,True,album,2
+track_1008,04gDigrS5kc9YWfZHwBETP,Maroon 5,Memories,189486,2019,2020,False,single,1
+track_1009,6WY7D3jk8zTrHtmkqqo5GI,Maren Morris,The Bones,197298,2019,2020,False,album,1
+track_1010,4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,Someone You Loved,182160,2019,2020,False,album,1
+track_1011,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Say So,237894,2019,2020,True,album,1
+track_1012,6Iz3eq2aQGFf7TbGT2iahL,Gabby Barrett,I Hope,210772,2020,2020,False,album,1
+track_1013,2LIk90788K0zvyj2JJVwkJ,Jack Harlow,WHATS POPPIN,139741,2020,2020,True,album,1
+track_1014,2NjfBq1NflQcKSeiDooVjY,Tones And I,Dance Monkey,209438,2019,2020,False,single,1
+track_1015,181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,Savage Remix (feat. Beyoncé),242000,2020,2020,True,album,2
+track_1016,0vRvGUQVUjytro0xpb26bs,Arizona Zervas,ROXANNE,163636,2019,2020,True,single,1
+track_1017,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Intentions (feat. Quavo),212866,2020,2020,False,album,2
+track_1018,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,everything i wanted,245425,2019,2020,False,single,1
+track_1019,0H39MdGGX6dbnnQPt6NQkZ,SAINt JHN,Roses - Imanbek Remix,176867,2020,2020,True,album,2
+track_1020,6KImCVD70vtIoJWnq6nGn3,Harry Styles,Watermelon Sugar,173991,2019,2020,False,album,1
+track_1021,4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,Before You Go,215106,2019,2020,False,album,1
+track_1022,7uaIm6Pw7xplS8Dy06V6pT,Trevor Daniel,Falling,159381,2020,2020,False,album,1
+track_1023,7z5WFjZAIYejWy0NI5lv4T,Dan + Shay,"10,000 Hours (with Justin Bieber)",167693,2019,2020,False,single,2
+track_1024,4kYSro6naA4h99UJvo89HB,Cardi B,WAP (feat. Megan Thee Stallion),187546,2020,2020,True,single,2
+track_1025,0YinUQ50QDB7ZxSCLyQ40k,Mustard,Ballin' (with Roddy Ricch),180434,2019,2020,True,album,2
+track_1026,2cFrymmkijnjDg9SS92EPM,blackbear,hot girl bummer,188343,2020,2020,True,album,1
+track_1027,5zctI4wO9XSKS8XwcnqEHk,Lil Mosey,Blueberry Faygo,162546,2020,2020,True,album,1
+track_1028,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Heartless,198266,2020,2020,True,album,1
+track_1029,4r63FhuTkUYltbVAg5TQnk,DaBaby,BOP,159714,2019,2020,True,album,1
+track_1030,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,Lose You To Love Me,206458,2020,2020,False,album,1
+track_1031,56oDRnqbIiwx4mymNEv7dS,Lizzo,Good as Hell,159735,2019,2020,False,album,1
+track_1032,3TVXtAsR1Inumwj472S9r4,Drake,Toosie Slide,247058,2020,2020,True,album,1
+track_1033,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,Break My Heart,221820,2020,2020,False,album,1
+track_1034,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Chasin' You,205453,2018,2020,False,album,1
+track_1035,56mfhUDKa1vec6rSLZV5Eg,Jawsh 685,Savage Love (Laxed - Siren Beat),171374,2020,2020,True,single,2
+track_1036,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,No Guidance (feat. Drake),260645,2019,2020,True,album,2
+track_1037,4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,My Oh My (feat. DaBaby),171375,2019,2020,False,album,2
+track_1038,3Nrfpe0tUJi4K4DXYWgMUX,BTS,Dynamite,199053,2020,2020,False,album,1
+track_1039,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Go Crazy,176960,2020,2020,True,album,2
+track_1040,757aE44tKEUQEqRuT6GnEB,Roddy Ricch,High Fashion (feat. Mustard),220486,2019,2020,True,album,2
+track_1041,3TVXtAsR1Inumwj472S9r4,Drake,Laugh Now Cry Later (feat. Lil Durk),261492,2020,2020,True,single,2
+track_1042,5f7VJjfbwm532GiveGC0ZK,Lil Baby,Woah,183011,2020,2020,True,album,1
+track_1043,6bmlMHgSheBauioMgKv2tn,Powfu,death bed (coffee for your head),173333,2020,2020,False,single,2
+track_1044,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,Señorita,190799,2019,2020,False,album,2
+track_1045,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,HIGHEST IN THE ROOM,175720,2019,2020,True,single,1
+track_1046,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,bad guy,194087,2019,2020,False,album,1
+track_1047,6fWVd57NKTalqvmjRd2t8Z,24kGoldn,Mood (feat. iann dior),140525,2020,2020,True,single,2
+track_1048,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Rain On Me (with Ariana Grande),182200,2020,2020,False,album,2
+track_1049,0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,For The Night (feat. Lil Baby & DaBaby),190476,2020,2020,True,album,3
+track_1050,1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,RITMO (Bad Boys For Life),221714,2020,2020,True,compilation,2
+track_1051,45TgXXqMDdF8BkjA83OM7z,Rod Wave,Heart On Ice,159669,2019,2020,True,album,1
+track_1052,1UTPBmNbXNTittyMJrNkvw,Blake Shelton,Nobody But You (Duet with Gwen Stefani),194866,2019,2020,False,compilation,2
+track_1053,3KwmxIhSe9UTSEF37kwngR,SHAED,Trampoline,184060,2018,2020,False,single,1
+track_1054,4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,Come & Go (with Marshmello),205484,2020,2020,True,album,2
+track_1055,56oDRnqbIiwx4mymNEv7dS,Lizzo,Truth Hurts,173325,2019,2020,True,album,1
+track_1056,66W9LaWS0DPdL7Sz8iYGYe,JP Saxe,If the World Was Ending (feat. Julia Michaels),211626,2020,2020,False,single,2
+track_1057,5f7VJjfbwm532GiveGC0ZK,Lil Baby,We Paid (feat. 42 Dugg),181929,2020,2020,True,album,2
+track_1058,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Yummy,208520,2020,2020,False,album,1
+track_1059,6y8XlgIV8BLlIg1tT1R10i,Old Dominion,One Man Band,186240,2019,2020,False,album,1
+track_1060,3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,Got What I Got,178146,2019,2020,False,album,1
+track_1061,4ETSs924pXMzjIeD6E9b4u,Surfaces,Sunday Best,158571,2019,2020,False,album,1
+track_1062,7dGJo4pcD2V6oG8kP0tJRR,Eminem,Godzilla (feat. Juice WRLD),210800,2020,2020,True,album,2
+track_1063,4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,Bandit (with YoungBoy Never Broke Again),189322,2019,2020,True,album,2
+track_1064,1XLWox9w1Yvbodui0SRhUQ,StaySolidRocky,Party Girl,147800,2020,2020,True,album,1
+track_1065,34bhyY8jfKez7uKakMfy4y,Maddie & Tae,Die From A Broken Heart,188320,2020,2020,False,album,1
+track_1066,0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,POPSTAR (feat. Drake),200221,2020,2020,True,single,2
+track_1067,4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,All I Want for Christmas Is You,241562,1994,2020,False,album,1
+track_1068,5Zq7R5qmi58ByYyBQTlNuk,Lee Brice,One Of Them Girls,188893,2020,2020,False,album,1
+track_1069,2kucQ9jQwuD8jWdtR9Ef38,Sam Hunt,Hard To Forget,204760,2020,2020,False,album,1
+track_1070,0BvkDsjIUla7X0k6CSWh1I,Luke Bryan,One Margarita,193426,2020,2020,False,album,1
+track_1071,7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,Panini,114893,2019,2020,False,album,1
+track_1072,50co4Is1HCEo8bhOyUWKpn,Young Thug,Hot (feat. Gunna),193026,2019,2020,True,album,2
+track_1073,4sIl4BTo9l9KqEi0Y3RE72,Carly Pearce,I Hope You’re Happy Now,198688,2020,2020,False,album,2
+track_1074,5f7VJjfbwm532GiveGC0ZK,Lil Baby,Emotionally Scarred,197529,2020,2020,True,album,1
+track_1075,1cNDP5yjU5vjeR8qMf4grg,YNW Melly,Suicidal,222997,2019,2020,True,album,1
+track_1076,5f7VJjfbwm532GiveGC0ZK,Lil Baby,The Bigger Picture,252728,2020,2020,True,album,1
+track_1077,7gOdHgIoIKoe4i9Tta6qdD,Jonas Brothers,Only Human,183000,2019,2020,False,album,1
+track_1078,0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,The Woo (feat. 50 Cent & Roddy Ricch),201600,2020,2020,True,album,3
+track_1079,5f7VJjfbwm532GiveGC0ZK,Lil Baby,Sum 2 Prove,205760,2020,2020,True,album,1
+track_1080,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,Stuck with U (with Justin Bieber),228482,2020,2020,False,single,2
+track_1081,0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,Mood Swings (feat. Lil Tjay),213333,2020,2020,True,album,2
+track_1082,26VFTg2z8YR0cCuwLzESi2,Halsey,You should be sad,205473,2020,2020,True,album,1
+track_1083,0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,Dior,216386,2019,2020,True,album,1
+track_1084,0Cp8WN4V8Tu4QJQwCN5Md4,BENEE,Supalonely (feat. Gus Dapperton),223488,2020,2020,True,album,2
+track_1085,718COspgdWOnwOFpJHRZHS,Luke Combs,Even Though I'm Leaving,225253,2019,2020,False,album,1
+track_1086,2PaZWGu5T5nHjY2xxAkFsT,THE SCOTTS,THE SCOTTS,165977,2020,2020,True,single,3
+track_1087,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Juicy,203093,2019,2020,True,album,2
+track_1088,3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,Be Like That - feat. Swae Lee & Khalid,191406,2020,2020,False,single,3
+track_1089,3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,Homesick,205405,2019,2020,False,album,1
+track_1090,45TgXXqMDdF8BkjA83OM7z,Rod Wave,Rags2Riches (feat. ATR Son Son),167183,2020,2020,True,album,2
+track_1091,66lH4jAE7pqPlOlzUKbwA0,Miranda Lambert,Bluebird,209760,2019,2020,False,album,1
+track_1092,4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,Wishing Well,194621,2020,2020,True,album,1
+track_1093,718COspgdWOnwOFpJHRZHS,Luke Combs,Does To Me (feat. Eric Church),223760,2019,2020,False,album,2
+track_1094,5ZS223C6JyBfXasXxrRqOk,Jhené Aiko,P*$$Y Fairy (OTW),181860,2020,2020,True,single,1
+track_1095,1lmU3giNF3CSbkVSQmLpHQ,Surf Mesa,ily (i love you baby) (feat. Emilee),176546,2019,2020,False,single,2
+track_1096,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,More Than My Hometown,216573,2020,2020,False,single,1
+track_1097,718COspgdWOnwOFpJHRZHS,Luke Combs,Lovin' On You,195093,2019,2020,False,album,1
+track_1098,3tJoFztHeIJkJWMrx0td2f,Moneybagg Yo,Said Sum,155168,2020,2020,True,album,1
+track_1099,3Y7RZ31TRPVadSFVy1o8os,H.E.R.,Slide,238321,2019,2020,True,single,2
+track_1100,0ErzCpIMyLcjPiwT4elrtZ,NLE Choppa,Walk Em Down (feat. Roddy Ricch),173288,2020,2020,True,album,2
+track_1101,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,Levitating (feat. DaBaby),203064,2020,2021,False,album,2
+track_1102,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Save Your Tears,215626,2020,2021,True,album,1
+track_1103,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Blinding Lights,200040,2020,2021,False,album,1
+track_1104,6fWVd57NKTalqvmjRd2t8Z,24kGoldn,Mood (feat. iann dior),140525,2021,2021,True,album,2
+track_1105,1McMsnEElThX1knmY4oliG,Olivia Rodrigo,good 4 u,178146,2021,2021,True,album,1
+track_1106,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Kiss Me More (feat. SZA),208666,2021,2021,True,album,2
+track_1107,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,Leave The Door Open,242096,2021,2021,False,album,3
+track_1108,1McMsnEElThX1knmY4oliG,Olivia Rodrigo,drivers license,242013,2021,2021,True,album,1
+track_1109,7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,MONTERO (Call Me By Your Name),137704,2021,2021,True,album,1
+track_1110,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Peaches (feat. Daniel Caesar & Giveon),198081,2021,2021,True,album,3
+track_1111,3Nrfpe0tUJi4K4DXYWgMUX,BTS,Butter,164441,2021,2021,False,single,1
+track_1112,2tIP7SsRs7vjIcLrU85W8J,The Kid LAROI,STAY (with Justin Bieber),141805,2021,2021,True,album,2
+track_1113,1McMsnEElThX1knmY4oliG,Olivia Rodrigo,deja vu,215506,2021,2021,True,album,1
+track_1114,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,positions,172324,2020,2021,True,album,1
+track_1115,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Bad Habits,230746,2021,2021,False,album,1
+track_1116,4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,Heat Waves,238805,2020,2021,False,album,1
+track_1117,2tIP7SsRs7vjIcLrU85W8J,The Kid LAROI,WITHOUT YOU,161384,2020,2021,True,album,1
+track_1118,718COspgdWOnwOFpJHRZHS,Luke Combs,Forever After All,232489,2020,2021,False,album,1
+track_1119,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Go Crazy,176960,2020,2021,True,album,2
+track_1120,1uU7g3DNSbsu0QjSEqZtEd,Masked Wolf,Astronaut In The Ocean,132780,2021,2021,True,album,1
+track_1121,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,34+35,173710,2020,2021,True,album,1
+track_1122,0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,What You Know Bout Love,160000,2020,2021,True,album,1
+track_1123,6TIYQ3jFPwQSRmorSezPxX,mgk,my ex's best friend (with blackbear),139460,2020,2021,True,album,2
+track_1124,7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,INDUSTRY BABY (feat. Jack Harlow),212352,2021,2021,True,album,2
+track_1125,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,Therefore I Am,173539,2021,2021,False,album,1
+track_1126,4kYSro6naA4h99UJvo89HB,Cardi B,Up,156946,2021,2021,True,single,1
+track_1127,7sKxqpSqbIzphAKAhrqvlf,Walker Hayes,Fancy Like,161853,2021,2021,False,single,1
+track_1128,4q3ewBCX7sLwd24euuV69X,Bad Bunny,DÁKITI,205090,2020,2021,True,album,2
+track_1129,6cK3NBO6uP7hh0oyuVELFl,Saweetie,Best Friend (feat. Doja Cat),155883,2021,2021,True,single,2
+track_1130,6AgTAQt8XS6jRWi4sX7w49,Polo G,RAPSTAR,165925,2021,2021,True,album,1
+track_1131,4fxd5Ee7UefO4CUXgwJ7IP,GIVĒON,Heartbreak Anniversary,198371,2020,2021,False,album,1
+track_1132,0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,For The Night (feat. Lil Baby & DaBaby),190476,2020,2021,True,album,3
+track_1133,6jGMq4yGs7aQzuGsMgVgZR,Lil Tjay,Calling My Phone,205458,2021,2021,True,album,2
+track_1134,04gDigrS5kc9YWfZHwBETP,Maroon 5,Beautiful Mistakes (feat. Megan Thee Stallion),227395,2021,2021,False,album,2
+track_1135,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Holy (feat. Chance The Rapper),212093,2021,2021,False,album,2
+track_1136,5f7VJjfbwm532GiveGC0ZK,Lil Baby,On Me,135959,2020,2021,True,single,1
+track_1137,45dkTj5sMRSjrmBSBeiHym,Tate McRae,you broke me first,170234,2021,2021,True,single,1
+track_1138,1McMsnEElThX1knmY4oliG,Olivia Rodrigo,traitor,229226,2021,2021,False,album,1
+track_1139,5F1aAS1duwlzExnPs3l2Xe,Pooh Shiesty,Back in Blood (feat. Lil Durk),184489,2021,2021,True,album,2
+track_1140,6Iz3eq2aQGFf7TbGT2iahL,Gabby Barrett,I Hope,210772,2020,2021,False,album,1
+track_1141,3Nrfpe0tUJi4K4DXYWgMUX,BTS,Dynamite,199053,2020,2021,False,album,1
+track_1142,3tJoFztHeIJkJWMrx0td2f,Moneybagg Yo,Wockesha,180930,2021,2021,True,album,1
+track_1143,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,You Right,186173,2021,2021,True,album,2
+track_1144,3TVXtAsR1Inumwj472S9r4,Drake,Laugh Now Cry Later (feat. Lil Durk),261492,2020,2021,True,single,2
+track_1145,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Need to Know,210560,2021,2021,True,album,1
+track_1146,3TVXtAsR1Inumwj472S9r4,Drake,Wants and Needs (feat. Lil Baby),192956,2021,2021,True,single,2
+track_1147,3TVXtAsR1Inumwj472S9r4,Drake,Way 2 Sexy (with Future & Young Thug),257604,2021,2021,True,album,3
+track_1148,1U1el3k54VvEUzo3ybLPlM,Kali Uchis,telepatía,160191,2020,2021,False,album,1
+track_1149,7arQA31aZVS8yS6zUveWzb,CJ,Whoopty,123262,2021,2021,True,album,1
+track_1150,6MPCFvOQv5cIGfw3jODMF0,Internet Money,"Lemonade (feat. Gunna, Don Toliver & NAV)",195428,2020,2021,True,album,4
+track_1151,7tYKF4w9nC0nq9CsPZTHyP,SZA,Good Days,279203,2020,2021,True,single,1
+track_1152,4YLtscXsxbVgi031ovDDdh,Chris Stapleton,Starting Over,240413,2020,2021,False,album,1
+track_1153,181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,Body,171067,2020,2021,True,album,1
+track_1154,06HL4z0CvFAxyc27GXpf02,Taylor Swift,willow,214706,2020,2021,False,album,1
+track_1155,6s22t5Y3prQHyaHWUN1R1C,AJR,Bang!,170858,2021,2021,False,album,1
+track_1156,718COspgdWOnwOFpJHRZHS,Luke Combs,Better Together,217573,2019,2021,False,album,1
+track_1157,3KNIG74xSTc3dj0TRy7pGX,Yung Bleu,You're Mines Still (feat. Drake),226220,2021,2021,True,album,2
+track_1158,0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,EVERY CHANCE I GET (feat. Lil Baby & Lil Durk),236524,2021,2021,True,album,3
+track_1159,3tVQdUvClmAT7URs9V3rsp,Wizkid,Essence (feat. Tems),249033,2020,2021,False,album,2
+track_1160,7lDVEkjIURPMyUYwoQRrpw,Ryan Hurd,Chasing After You,207673,2021,2021,False,album,2
+track_1161,6Iz3eq2aQGFf7TbGT2iahL,Gabby Barrett,The Good Ones,215140,2020,2021,False,album,1
+track_1162,64KEffDW9EtZ1y2vBYgq8T,Marshmello,Leave Before You Love Me (with Jonas Brothers),154983,2021,2021,False,single,2
+track_1163,7z5WFjZAIYejWy0NI5lv4T,Dan + Shay,Glad You Exist,144760,2021,2021,False,album,1
+track_1164,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Lonely (with benny blanco),149189,2021,2021,True,album,2
+track_1165,0lAWpj5szCSwM4rUMHYmrr,Måneskin,Beggin',211560,2017,2021,False,album,1
+track_1166,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Streets,226978,2019,2021,True,album,1
+track_1167,3TVXtAsR1Inumwj472S9r4,Drake,What’s Next,178153,2021,2021,True,single,1
+track_1168,4BYxqVkZyFjtik7crYLg5Q,Chris Young,Famous Friends,166506,2021,2021,False,album,2
+track_1169,2gBjLmx6zQnFGQJCAQpRgw,Nelly,Lil Bit,195962,2020,2021,True,single,2
+track_1170,181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,Thot Shit,184634,2021,2021,True,album,1
+track_1171,757aE44tKEUQEqRuT6GnEB,Roddy Ricch,late at night,174682,2021,2021,True,single,1
+track_1172,4npEfmQ6YuiwW1GpUmaq3F,Ava Max,Kings & Queens,162398,2020,2021,False,album,1
+track_1173,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Anyone,190779,2021,2021,False,album,1
+track_1174,4NqH3V7GS0Igs1VyGMXEi8,Mooski,Track Star,199706,2021,2021,True,single,1
+track_1175,3tJoFztHeIJkJWMrx0td2f,Moneybagg Yo,Time Today,136899,2021,2021,True,album,1
+track_1176,181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,Cry Baby (feat. DaBaby),137983,2020,2021,True,album,2
+track_1177,4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,All I Want for Christmas Is You,241562,1994,2021,False,album,1
+track_1178,6AMd49uBDJfhf30Ak2QR5s,Coi Leray,No More Parties - Remix,192880,2021,2021,True,single,2
+track_1179,6x2LnllRG5uGarZMsD4iO8,Thomas Rhett,What’s Your Country Song,171333,2021,2021,False,album,1
+track_1180,0u2FHSq3ln94y5Q57xazwf,Keith Urban,One Too Many,203893,2020,2021,False,album,2
+track_1181,3klZnJvYGIbWritVwQD434,Duncan Laurence,Arcade,185146,2020,2021,False,album,1
+track_1182,4q3ewBCX7sLwd24euuV69X,Bad Bunny,Yonaguni,206710,2021,2021,True,single,1
+track_1183,6Rw7DRa1dzChBvxGPCpOxU,Niko Moon,GOOD TIME,214720,2021,2021,False,album,1
+track_1184,3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,If I Didn't Love You,212030,2021,2021,False,album,2
+track_1185,3TVXtAsR1Inumwj472S9r4,Drake,Knife Talk (with 21 Savage ft. Project Pat),242965,2021,2021,True,album,3
+track_1186,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,pov,201882,2020,2021,False,album,1
+track_1187,4TshyQDihSYXSWqvclXl3I,Parmalee,Just the Way,193880,2021,2021,False,album,2
+track_1188,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Take My Breath - Single Version,220196,2021,2021,False,single,1
+track_1189,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,We're Good,165506,2021,2021,False,album,1
+track_1190,2IvkS5MXK0vPGnwyJsrEyV,Eric Church,Hell Of A View,175026,2021,2021,False,album,1
+track_1191,4cPHsZM98sKzmV26wlwD2W,Brenda Lee,Rockin' Around The Christmas Tree,126266,1964,2021,False,album,1
+track_1192,7MPGCB854Qo4alYMOPkBka,Ritt Momney,Put Your Records On,210463,2020,2021,False,single,1
+track_1193,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,Happier Than Ever,298899,2021,2021,True,album,1
+track_1194,1mfDfLsMxYcOOZkzBxvSVW,Cole Swindell,Single Saturday Night,187683,2020,2021,False,single,1
+track_1195,6tPHARSq45lQ8BSALCfkFC,Lainey Wilson,Things a Man Oughta Know,203373,2021,2021,False,album,1
+track_1196,5jJjvmEwRr8epuGZq4eUUa,BRS Kash,Throat Baby (Go Baby),218228,2021,2021,True,album,1
+track_1197,45TgXXqMDdF8BkjA83OM7z,Rod Wave,Tombstone,160078,2021,2021,True,album,1
+track_1198,6pBNfggcZZDCmb0p92OnGn,Chase Rice,Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line),160839,2021,2021,False,album,2
+track_1199,1mcTU81TzQhprhouKaTkpq,Rauw Alejandro,Todo De Ti,199604,2021,2021,True,album,1
+track_1200,3Y2MLcrD3ZQXRXmtn4fZQx,SpotemGottem,Beat Box 2 (feat. Pooh Shiesty),181087,2020,2021,True,album,2
+track_1201,4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,Heat Waves,238805,2020,2022,False,album,1
+track_1202,6KImCVD70vtIoJWnq6nGn3,Harry Styles,As It Was,167303,2022,2022,False,album,1
+track_1203,2tIP7SsRs7vjIcLrU85W8J,The Kid LAROI,STAY (with Justin Bieber),141805,2021,2022,True,album,2
+track_1204,4dpARuHxo51G3z768sgnrY,Adele,Easy On Me,224694,2021,2022,False,album,1
+track_1205,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Shivers,207853,2021,2022,False,album,1
+track_1206,2LIk90788K0zvyj2JJVwkJ,Jack Harlow,First Class,173947,2022,2022,True,album,1
+track_1207,3MdXrJWsbVzdn6fe5JYkSQ,Latto,Big Energy,172540,2022,2022,True,album,1
+track_1208,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,Ghost,153190,2021,2022,False,album,1
+track_1209,46SHBwWsqBkxI7EeeBEQG7,Kodak Black,Super Gremlin,200547,2021,2022,True,album,1
+track_1210,3PhoLpVuITZKcymswpck5b,Elton John,Cold Heart - PNAU Remix,202735,2021,2022,False,album,3
+track_1211,1RyvyyTE3xzB2ZywiAwp0i,Future,WAIT FOR U (feat. Drake & Tems),189893,2022,2022,True,album,3
+track_1212,56oDRnqbIiwx4mymNEv7dS,Lizzo,About Damn Time,191937,2022,2022,True,album,1
+track_1213,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Bad Habits,230746,2021,2022,False,album,1
+track_1214,7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,THATS WHAT I WANT,143901,2021,2022,True,album,1
+track_1215,53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,Enemy feat. J.I.D. (from the series Arcane League of Legends),173381,2021,2022,False,album,2
+track_1216,7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,INDUSTRY BABY (feat. Jack Harlow),212352,2021,2022,True,album,2
+track_1217,2VSHKHBTiXWplO8lxcnUC9,GAYLE,abcdefu,168551,2022,2022,True,single,1
+track_1218,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Need to Know,210560,2021,2022,True,album,1
+track_1219,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Wasted On You,178520,2021,2022,False,album,1
+track_1220,4q3ewBCX7sLwd24euuV69X,Bad Bunny,Me Porto Bonito,178567,2022,2022,True,album,2
+track_1221,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Woman,172626,2021,2022,True,album,1
+track_1222,4q3ewBCX7sLwd24euuV69X,Bad Bunny,Tití Me Preguntó,243716,2022,2022,True,album,1
+track_1223,1aSxMhuvixZ8h9dK9jIDwL,Kate Bush,Running Up That Hill (A Deal With God) - 2018 Remaster,300840,1985,2022,False,album,1
+track_1224,29PgYEggDV3cDP9QYTogwv,Carolina Gaitán - La Gaita,We Don't Talk About Bruno,216120,2021,2022,False,album,7
+track_1225,6KImCVD70vtIoJWnq6nGn3,Harry Styles,Late Night Talking,177954,2022,2022,False,album,1
+track_1226,246dkjvS1zLTtiykXe5h60,Post Malone,I Like You (A Happier Song) (with Doja Cat),192840,2022,2022,True,album,2
+track_1227,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,You Proof,157477,2022,2022,False,single,1
+track_1228,57vWImR43h4CaDao012Ofp,Steve Lacy,Bad Habit,232114,2022,2022,True,album,1
+track_1229,7qmpXeNz2ojlMl2EEfkeLs,Nicky Youre,Sunroof,163025,2021,2022,False,single,2
+track_1230,246dkjvS1zLTtiykXe5h60,Post Malone,One Right Now (with The Weeknd),192721,2022,2022,True,album,2
+track_1231,1McMsnEElThX1knmY4oliG,Olivia Rodrigo,good 4 u,178146,2021,2022,True,album,1
+track_1232,7o2ZQYM7nTsaVdkXY38UAA,Em Beihold,Numb Little Bug,169237,2022,2022,False,album,1
+track_1233,3TVXtAsR1Inumwj472S9r4,Drake,Jimmy Cooks (feat. 21 Savage),218364,2022,2022,True,album,2
+track_1234,6zLBxLdl60ekBLpawtT63I,Cody Johnson,'Til You Can't,224213,2021,2022,False,album,1
+track_1235,7sKxqpSqbIzphAKAhrqvlf,Walker Hayes,Fancy Like,161853,2022,2022,False,album,1
+track_1236,718COspgdWOnwOFpJHRZHS,Luke Combs,The Kind of Love We Make,224435,2022,2022,False,album,1
+track_1237,5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,I Ain't Worried,148485,2022,2022,False,album,1
+track_1238,6vWDO969PvNqNYHIOW5v0m,Beyoncé,BREAK MY SOUL,278281,2022,2022,False,album,1
+track_1239,40ZNYROS4zLfyyBSs2PGe2,Zach Bryan,Something in the Orange,228013,2022,2022,False,single,1
+track_1240,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Save Your Tears,215626,2020,2022,True,album,1
+track_1241,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,Smokin Out The Window,197442,2021,2022,False,album,3
+track_1242,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,Levitating,203807,2020,2022,False,album,1
+track_1243,5f7VJjfbwm532GiveGC0ZK,Lil Baby,In A Minute,200470,2022,2022,True,album,1
+track_1244,4q3ewBCX7sLwd24euuV69X,Bad Bunny,Moscow Mule,245939,2022,2022,True,album,1
+track_1245,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,You Right,186173,2021,2022,True,album,2
+track_1246,1mfDfLsMxYcOOZkzBxvSVW,Cole Swindell,She Had Me At Heads Carolina,206106,2022,2022,False,album,1
+track_1247,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Vegas,183026,2022,2022,True,compilation,1
+track_1248,2hlmm7s2ICUX0LVIhVFlZQ,Gunna,pushin P (feat. Young Thug),136266,2022,2022,True,album,3
+track_1249,77kULmXAQ6vWer7IIHdGzI,Jordan Davis,Buy Dirt,167480,2021,2022,False,album,2
+track_1250,7tYKF4w9nC0nq9CsPZTHyP,SZA,I Hate U,174000,2021,2022,True,single,1
+track_1251,2W8yFh0Ga6Yf3jiayVxwkE,Dove Cameron,Boyfriend,153000,2022,2022,True,single,1
+track_1252,3MZsBdqDrRTJihTHQrO6Dq,Joji,Glimpse of Us,233456,2022,2022,False,album,1
+track_1253,4vdAAzZBUKbsrvHi6UR7B7,Jessica Darrow,Surface Pressure,202226,2021,2022,False,album,1
+track_1254,3win9vGIxFfBRag9S63wwf,Bailey Zimmerman,Fall In Love,232058,2022,2022,False,single,1
+track_1255,048LktY5zMnakWq7PTtFrz,CKay,love nwantiti (ah ah ah),145800,2019,2022,True,album,1
+track_1256,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Super Freaky Girl,170977,2022,2022,True,compilation,1
+track_1257,7tjVFCxJdwT4NdrTmjyjQ6,Muni Long,Hrs & Hrs,204316,2022,2022,True,album,1
+track_1258,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Sand In My Boots,202133,2021,2022,False,album,1
+track_1259,4obzFoKoKRHIphyHzJ35G3,Becky G,MAMIII,226088,2022,2022,True,album,2
+track_1260,3TVXtAsR1Inumwj472S9r4,Drake,Knife Talk (with 21 Savage ft. Project Pat),242965,2021,2022,True,album,3
+track_1261,7sKxqpSqbIzphAKAhrqvlf,Walker Hayes,AA,189560,2022,2022,False,album,1
+track_1262,181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,Sweetest Pie,201334,2022,2022,True,album,2
+track_1263,790FomKkXshlbRYZFtlgla,KAROL G,PROVENZA,210200,2022,2022,False,single,1
+track_1264,3tVQdUvClmAT7URs9V3rsp,Wizkid,Essence (feat. Tems),249033,2020,2022,False,album,2
+track_1265,4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,All I Want for Christmas Is You,241562,1994,2022,False,album,1
+track_1266,4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,Bam Bam (feat. Ed Sheeran),205604,2022,2022,False,album,2
+track_1267,3BEV5FcxOtkQJ7lLRKMh3V,Tyler Hubbard,5 Foot 9,189780,2022,2022,False,single,1
+track_1268,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Get Into It (Yuh),138293,2021,2022,True,album,1
+track_1269,4q3ewBCX7sLwd24euuV69X,Bad Bunny,Efecto,213061,2022,2022,True,album,1
+track_1270,3win9vGIxFfBRag9S63wwf,Bailey Zimmerman,Rock and A Hard Place,207540,2022,2022,False,single,1
+track_1271,718COspgdWOnwOFpJHRZHS,Luke Combs,Doin' This,254181,2022,2022,False,album,1
+track_1272,4dpARuHxo51G3z768sgnrY,Adele,Oh My God,225148,2021,2022,False,album,1
+track_1273,5H6xmHXjsq98NLbEjuE29f,NEIKED,Better Days (feat. Polo G),160656,2022,2022,False,single,3
+track_1274,64H8UqGLbJFHwKtGxiV8OP,THE ANXIETY,Meet Me At Our Spot,162680,2020,2022,True,album,3
+track_1275,79AyR6ATpj2LTPxfb6FX50,Lauren Spencer Smith,Fingers Crossed,175344,2022,2022,False,single,1
+track_1276,06HL4z0CvFAxyc27GXpf02,Taylor Swift,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),613026,2021,2022,True,album,1
+track_1277,4q3ewBCX7sLwd24euuV69X,Bad Bunny,Party,227628,2022,2022,True,album,2
+track_1278,4q3ewBCX7sLwd24euuV69X,Bad Bunny,Después de la Playa,230400,2022,2022,False,album,1
+track_1279,4YLtscXsxbVgi031ovDDdh,Chris Stapleton,You Should Probably Leave,213493,2020,2022,False,album,1
+track_1280,4cPHsZM98sKzmV26wlwD2W,Brenda Lee,Rockin' Around The Christmas Tree,126266,1964,2022,False,album,1
+track_1281,3hcs9uc56yIGFCSy9leWe7,Lil Durk,Broadway Girls (feat. Morgan Wallen),185600,2022,2022,False,album,2
+track_1282,4TshyQDihSYXSWqvclXl3I,Parmalee,Take My Name,157906,2021,2022,False,album,1
+track_1283,3hcs9uc56yIGFCSy9leWe7,Lil Durk,What Happened To Virgil (feat. Gunna),181393,2022,2022,True,album,2
+track_1284,1RyvyyTE3xzB2ZywiAwp0i,Future,PUFFIN ON ZOOTIEZ,172933,2022,2022,True,album,1
+track_1285,3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,Like I Love Country Music,234800,2022,2022,False,album,1
+track_1286,38EmEgXkgK51MT2tPY0EoC,Bobby Helms,Jingle Bell Rock,130973,1957,2022,False,single,1
+track_1287,4q3ewBCX7sLwd24euuV69X,Bad Bunny,Ojitos Lindos,258298,2022,2022,False,album,2
+track_1288,0MHgLfmQdutffmvWe5XBTN,Burl Ives,A Holly Jolly Christmas,135533,1965,2022,False,compilation,1
+track_1289,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Kiss Me More (feat. SZA),208666,2021,2022,True,album,2
+track_1290,1E2AEtxaFaJtH0lO7kgNKw,Russell Dickerson,She Likes It (feat. Jake Scott),163311,2022,2022,False,album,2
+track_1291,1mfDfLsMxYcOOZkzBxvSVW,Cole Swindell,Never Say Never (with Lainey Wilson),176146,2022,2022,False,album,2
+track_1292,6ZV6lGY0prbqpTD0Md8i29,Scotty McCreery,Damn Strait,230226,2021,2022,False,album,1
+track_1293,45dkTj5sMRSjrmBSBeiHym,Tate McRae,she's all i wanna be,207123,2022,2022,False,album,1
+track_1294,4MoAOfV4ROWofLG3a3hhBN,Jon Pardi,Last Night Lonely,182161,2022,2022,False,album,1
+track_1295,4GGfAshSkqoxpZdoaHm7ky,ERNEST,Flower Shops,214405,2022,2022,False,album,2
+track_1296,1Z25ZlGHqqlr3o1UGQOfNn,JNR CHOI,TO THE MOON,152137,2021,2022,True,single,2
+track_1297,2wY79sveU1sp5g7SokKOiI,Sam Smith,Unholy (feat. Kim Petras),156943,2022,2022,False,single,2
+track_1298,3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,One Mississippi,214293,2022,2022,False,album,1
+track_1299,6WY7D3jk8zTrHtmkqqo5GI,Maren Morris,Circles Around This Town,195763,2022,2022,False,album,1
+track_1300,3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,Trouble with a Heartbreak,196026,2022,2022,False,album,1
+track_1301,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Last Night,163854,2023,2023,True,album,1
+track_1302,5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,Flowers,200600,2023,2023,False,album,1
+track_1303,7tYKF4w9nC0nq9CsPZTHyP,SZA,Kill Bill,153946,2022,2023,False,album,1
+track_1304,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Anti-Hero,200690,2022,2023,False,album,1
+track_1305,0iEtIxbK0KxaSlF7G42ZOp,Metro Boomin,Creepin' (with The Weeknd & 21 Savage),221520,2022,2023,True,album,3
+track_1306,46pWGuE3dSwY3bMMXGBvVS,Rema,Calm Down (with Selena Gomez),239317,2023,2023,False,album,2
+track_1307,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Die For You (with Ariana Grande) - Remix,232857,2023,2023,False,album,2
+track_1308,718COspgdWOnwOFpJHRZHS,Luke Combs,Fast Car,265284,2023,2023,False,album,1
+track_1309,7tYKF4w9nC0nq9CsPZTHyP,SZA,Snooze,201800,2022,2023,True,album,1
+track_1310,1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,I'm Good (Blue),175238,2023,2023,True,album,2
+track_1311,2wY79sveU1sp5g7SokKOiI,Sam Smith,Unholy (feat. Kim Petras),156943,2023,2023,False,album,2
+track_1312,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,You Proof,157477,2023,2023,False,album,1
+track_1313,40ZNYROS4zLfyyBSs2PGe2,Zach Bryan,Something in the Orange,228013,2022,2023,False,single,1
+track_1314,3TVXtAsR1Inumwj472S9r4,Drake,Rich Flex,239359,2022,2023,True,album,2
+track_1315,6KImCVD70vtIoJWnq6nGn3,Harry Styles,As It Was,167303,2022,2023,False,album,1
+track_1316,3win9vGIxFfBRag9S63wwf,Bailey Zimmerman,Rock and A Hard Place,207540,2023,2023,False,album,1
+track_1317,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Under The Influence,184203,2019,2023,True,album,1
+track_1318,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Cruel Summer,178426,2019,2023,False,album,1
+track_1319,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Thinkin’ Bout Me,177387,2023,2023,False,album,1
+track_1320,78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,Boy's a liar Pt. 2,131013,2023,2023,True,album,2
+track_1321,6BH1xcDkwbbyrLMUKECsW1,Toosii,Favorite Song,204000,2023,2023,False,album,1
+track_1322,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Thought You Should Know,215571,2023,2023,True,album,1
+track_1323,3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,Thank God,174560,2022,2023,False,album,2
+track_1324,360IAlyVv4PCEVjgyMZrxK,Miguel,Sure Thing,195373,2010,2023,False,album,1
+track_1325,3hcs9uc56yIGFCSy9leWe7,Lil Durk,All My Life (feat. J. Cole),223878,2023,2023,True,album,2
+track_1326,0XeEobZplHxzM9QzFQWLiR,Eslabon Armado,Ella Baila Sola,165671,2023,2023,False,single,2
+track_1327,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Karma (feat. Ice Spice),201493,2023,2023,True,album,2
+track_1328,4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,Just Wanna Rock,123890,2023,2023,True,album,1
+track_1329,6vWDO969PvNqNYHIOW5v0m,Beyoncé,CUFF IT,225388,2022,2023,True,album,1
+track_1330,1McMsnEElThX1knmY4oliG,Olivia Rodrigo,vampire,219724,2023,2023,True,album,1
+track_1331,2hlmm7s2ICUX0LVIhVFlZQ,Gunna,fukumean,125040,2023,2023,True,album,1
+track_1332,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Lavender Haze,202395,2022,2023,True,album,1
+track_1333,6AMd49uBDJfhf30Ak2QR5s,Coi Leray,Players,138760,2023,2023,True,album,1
+track_1334,19k8AgwwTSxeaxkOuCQEJs,Jelly Roll,Need A Favor,197400,2023,2023,False,album,1
+track_1335,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,Dance The Night,176579,2023,2023,False,compilation,1
+track_1336,718COspgdWOnwOFpJHRZHS,Luke Combs,Love You Anyway,229424,2023,2023,False,album,1
+track_1337,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,One Thing At A Time,206864,2023,2023,False,album,1
+track_1338,0iEtIxbK0KxaSlF7G42ZOp,Metro Boomin,Superhero (Heroes & Villains) [with Future & Chris Brown],182666,2022,2023,True,album,3
+track_1339,57vWImR43h4CaDao012Ofp,Steve Lacy,Bad Habit,232114,2022,2023,True,album,1
+track_1340,1NNRWkhwmcXRimFYSBpB1y,Yng Lvcas,La Bebe - Remix,234352,2023,2023,True,single,2
+track_1341,164Uj4eKjl6zTBKfJLFKKK,JVKE,golden hour,209259,2022,2023,False,album,1
+track_1342,3win9vGIxFfBRag9S63wwf,Bailey Zimmerman,Religiously,178723,2023,2023,False,album,1
+track_1343,3TVXtAsR1Inumwj472S9r4,Drake,Spin Bout U,214588,2022,2023,True,album,2
+track_1344,4GJ6xDCF5jaUqD6avOuQT6,FIFTY FIFTY,Cupid - Twin Ver.,174253,2023,2023,False,album,1
+track_1345,3TVXtAsR1Inumwj472S9r4,Drake,Search & Rescue,272112,2023,2023,True,single,1
+track_1346,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Barbie World (with Aqua),109750,2023,2023,False,compilation,3
+track_1347,77kULmXAQ6vWer7IIHdGzI,Jordan Davis,Next Thing You Know,175226,2023,2023,False,album,1
+track_1348,5KKpBU5eC2tJDzf0wmlRp2,RAYE,Escapism.,272373,2023,2023,True,album,2
+track_1349,6XkjpgcEsYab502Vr1bBeW,Grupo Frontera,un x100to,194563,2023,2023,False,album,2
+track_1350,5XKFrudbV4IiuE5WuTPRmT,Stephen Sanchez,Until I Found You,177720,2023,2023,False,album,1
+track_1351,7tYKF4w9nC0nq9CsPZTHyP,SZA,Shirt,181840,2022,2023,True,album,1
+track_1352,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Paint The Town Red,230466,2023,2023,True,album,1
+track_1353,6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,Made You Look,134256,2022,2023,False,album,1
+track_1354,5QNm7E7RU2m64l6Gliu8Oy,HARDY,wait in the truck,277659,2023,2023,False,album,2
+track_1355,4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,All I Want for Christmas Is You,241562,1994,2023,False,album,1
+track_1356,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Everything I Love,187047,2023,2023,False,album,1
+track_1357,246dkjvS1zLTtiykXe5h60,Post Malone,Chemical,183410,2023,2023,True,album,1
+track_1358,6tPHARSq45lQ8BSALCfkFC,Lainey Wilson,Heart Like A Truck,199040,2022,2023,False,album,1
+track_1359,718COspgdWOnwOFpJHRZHS,Luke Combs,"Going, Going, Gone",177244,2022,2023,False,album,1
+track_1360,4cPHsZM98sKzmV26wlwD2W,Brenda Lee,Rockin' Around The Christmas Tree,126266,1964,2023,False,album,1
+track_1361,3BEV5FcxOtkQJ7lLRKMh3V,Tyler Hubbard,Dancin’ In The Country,179640,2023,2023,False,album,1
+track_1362,33NVpKoXjItPwUJTMZIOiY,David Kushner,Daylight,212953,2023,2023,False,single,1
+track_1363,5pKCCKE2ajJHZ9KAiaK11H,Rihanna,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,196520,2022,2023,False,compilation,1
+track_1364,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,Eyes Closed,194848,2023,2023,False,album,1
+track_1365,790FomKkXshlbRYZFtlgla,KAROL G,TQG,197933,2023,2023,True,album,2
+track_1366,3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,Try That In A Small Town,181600,2023,2023,True,album,1
+track_1367,5Ppie0uPnbnvGBYRwYmlt0,Megan Moroney,Tennessee Orange,223119,2023,2023,False,album,1
+track_1368,38EmEgXkgK51MT2tPY0EoC,Bobby Helms,Jingle Bell Rock,130973,1957,2023,False,single,1
+track_1369,3LZZPxNDGDFVSIPqf4JuEf,Ice Spice,Princess Diana (with Nicki Minaj),172125,2023,2023,True,single,2
+track_1370,2qoQgPAilErOKCwE2Y8wOG,GloRilla,Tomorrow 2 (with Cardi B),209811,2022,2023,True,single,2
+track_1371,0MHgLfmQdutffmvWe5XBTN,Burl Ives,A Holly Jolly Christmas,135533,1965,2023,False,compilation,1
+track_1372,4q3ewBCX7sLwd24euuV69X,Bad Bunny,WHERE SHE GOES,231704,2023,2023,True,album,1
+track_1373,0ys2OFYzWYB5hRDLCsBqxt,Fuerza Regida,Bebe Dame,271861,2022,2023,False,album,2
+track_1374,40ZNYROS4zLfyyBSs2PGe2,Zach Bryan,I Remember Everything (feat. Kacey Musgraves),227195,2023,2023,False,album,2
+track_1375,246dkjvS1zLTtiykXe5h60,Post Malone,I Like You (A Happier Song) (with Doja Cat),192840,2022,2023,True,album,2
+track_1376,4E2rKHVDssGJm2SCDOMMJB,Doechii,What It Is (Solo Version),189824,2023,2023,True,single,1
+track_1377,7tYKF4w9nC0nq9CsPZTHyP,SZA,Nobody Gets Me,180853,2022,2023,True,album,1
+track_1378,6IkfE2JyVoKwBZXvuytKX3,Oliver Anthony Music,Rich Men North of Richmond,187244,2023,2023,False,single,1
+track_1379,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Super Freaky Girl,170977,2022,2023,True,compilation,1
+track_1380,2RQXRUsr4IW1f3mKyKsy4B,Noah Kahan,Dial Drunk (with Post Malone),213817,2023,2023,True,single,2
+track_1381,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,"What Was I Made For? (From The Motion Picture ""Barbie"")",222369,2023,2023,False,compilation,1
+track_1382,6HaGTQPmzraVmaVxvz6EUc,Jung Kook,Seven (feat. Latto) (Explicit Ver.),183550,2023,2023,True,album,2
+track_1383,1RyvyyTE3xzB2ZywiAwp0i,Future,WAIT FOR U (feat. Drake & Tems),189893,2022,2023,True,album,3
+track_1384,5lpH0xAS4fVfLkACg9DAuM,Wham!,Last Christmas,262960,1984,2023,False,single,1
+track_1385,0Z8XVUAOBPM4x12wKnFHEQ,Parker McCollum,Handle On You,219967,2023,2023,False,album,1
+track_1386,12GqGscKJx3aE4t07u7eVZ,Peso Pluma,Por las Noches,239845,2021,2023,False,single,1
+track_1387,6y8XlgIV8BLlIg1tT1R10i,Old Dominion,Memory Lane,172480,2023,2023,False,album,1
+track_1388,1YRqgFNXqRyMDRr8ClS1NL,Kaliii,Area Codes,139325,2023,2023,True,single,1
+track_1389,3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,Bury Me in Georgia,241480,2022,2023,False,album,1
+track_1390,12GqGscKJx3aE4t07u7eVZ,Peso Pluma,PRC,184066,2023,2023,True,album,2
+track_1391,77kULmXAQ6vWer7IIHdGzI,Jordan Davis,What My World Spins Around,186800,2023,2023,False,album,1
+track_1392,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Ain’t That Some,158003,2023,2023,True,album,1
+track_1393,3sUpZrkehiGBaMzs2h9Mmc,Corey Kent,Wild as Her,200200,2023,2023,False,album,1
+track_1394,5yPzzu25VzEk8qrGTLIrE1,Young Nudy,Peaches & Eggplants (feat. 21 Savage),203813,2023,2023,True,album,2
+track_1395,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,I Wrote The Book,181766,2023,2023,False,album,1
+track_1396,716NhGYqD1jl2wI1Qkgq36,Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53/66",214945,2023,2023,False,single,2
+track_1397,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,MELTDOWN (feat. Drake),246133,2023,2023,True,album,2
+track_1398,3MdXrJWsbVzdn6fe5JYkSQ,Latto,Put It On Da Floor Again (feat. Cardi B),185748,2023,2023,True,single,2
+track_1399,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Bloody Mary,244760,2011,2023,False,album,1
+track_1400,6tPHARSq45lQ8BSALCfkFC,Lainey Wilson,Watermelon Moonshine,208853,2022,2023,False,album,1
+track_1401,33qOK5uJ8AR2xuQQAhHump,Teddy Swims,Lose Control,210688,2023,2024,False,album,1
+track_1402,3y2cIKLjiOlp1Np37WiUdH,Shaboozey,A Bar Song (Tipsy),171291,2024,2024,True,album,1
+track_1403,22wbnEMDvgVIAGdFeek6ET,Benson Boone,Beautiful Things,180304,2024,2024,False,album,1
+track_1404,246dkjvS1zLTtiykXe5h60,Post Malone,I Had Some Help (Feat. Morgan Wallen),178205,2024,2024,True,album,2
+track_1405,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,Not Like Us,274192,2024,2024,True,single,1
+track_1406,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,Espresso,175459,2024,2024,True,album,1
+track_1407,2LIk90788K0zvyj2JJVwkJ,Jack Harlow,Lovin On Me,138411,2023,2024,True,single,1
+track_1408,1WaFQSHVGZQJTbf0BdxdNo,Tommy Richman,MILLION DOLLAR BABY,155151,2024,2024,False,single,1
+track_1409,2FXC3k01G6Gw61bmprjgqS,Hozier,Too Sweet,251424,2024,2024,False,album,1
+track_1410,40ZNYROS4zLfyyBSs2PGe2,Zach Bryan,I Remember Everything (feat. Kacey Musgraves),227195,2023,2024,False,album,2
+track_1411,2RQXRUsr4IW1f3mKyKsy4B,Noah Kahan,Stick Season,182346,2022,2024,False,album,1
+track_1412,1RyvyyTE3xzB2ZywiAwp0i,Future,Like That,267706,2024,2024,True,album,3
+track_1413,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,BIRDS OF A FEATHER,210373,2024,2024,False,album,1
+track_1414,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,Please Please Please,186365,2024,2024,True,album,1
+track_1415,45dkTj5sMRSjrmBSBeiHym,Tate McRae,greedy,129686,2023,2024,True,album,1
+track_1416,7GlBOeep6PqTfFi59PTUUN,Chappell Roan,"Good Luck, Babe!",218423,2024,2024,False,single,1
+track_1417,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Cruel Summer,178426,2019,2024,False,album,1
+track_1418,7tYKF4w9nC0nq9CsPZTHyP,SZA,Saturn,186191,2024,2024,False,single,1
+track_1419,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Agora Hills,265360,2023,2024,True,album,1
+track_1420,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Fortnight (feat. Post Malone),228965,2024,2024,False,album,2
+track_1421,7Ez6lTtSMjMf2YSYpukP1I,Dasha,Austin (Boots Stop Workin'),171782,2024,2024,True,album,1
+track_1422,7tYKF4w9nC0nq9CsPZTHyP,SZA,Snooze,201800,2022,2024,True,album,1
+track_1423,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,Feather,185552,2023,2024,True,album,1
+track_1424,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Cowgirls (feat. ERNEST),181621,2023,2024,False,album,2
+track_1425,40ZNYROS4zLfyyBSs2PGe2,Zach Bryan,Pink Skies,194920,2024,2024,False,single,1
+track_1426,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,we can't be friends (wait for your love),228639,2024,2024,False,album,1
+track_1427,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,Paint The Town Red,230466,2023,2024,True,album,1
+track_1428,3SozjO3Lat463tQICI9LcE,Tyla,Water,200255,2024,2024,False,album,1
+track_1429,718COspgdWOnwOFpJHRZHS,Luke Combs,Fast Car,265284,2023,2024,False,album,1
+track_1430,64KEffDW9EtZ1y2vBYgq8T,Marshmello,Miles On It,168355,2024,2024,False,single,2
+track_1431,6vWDO969PvNqNYHIOW5v0m,Beyoncé,TEXAS HOLD 'EM,233456,2024,2024,True,album,1
+track_1432,06HL4z0CvFAxyc27GXpf02,Taylor Swift,I Can Do It With a Broken Heart,218004,2024,2024,True,album,1
+track_1433,718COspgdWOnwOFpJHRZHS,Luke Combs,Ain't No Love In Oklahoma,210950,2024,2024,False,compilation,1
+track_1434,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Last Night,163854,2023,2024,True,album,1
+track_1435,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Is It Over Now? (Taylor's Version) (From The Vault),229477,2023,2024,False,album,1
+track_1436,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Thinkin’ Bout Me,177387,2023,2024,False,album,1
+track_1437,7dGJo4pcD2V6oG8kP0tJRR,Eminem,Houdini,227032,2024,2024,True,album,1
+track_1438,4xPQFgDA5M2xa0ZGo5iIsv,¥$,CARNIVAL,264324,2024,2024,True,album,3
+track_1439,2yLzlEFtIS0Q9UkyBZdQA7,Jessie Murph,Wild Ones (feat. Jelly Roll),141367,2024,2024,True,album,2
+track_1440,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Die With A Smile,251667,2024,2024,False,single,2
+track_1441,2qoQgPAilErOKCwE2Y8wOG,GloRilla,Wanna Be (with Megan Thee Stallion),156444,2024,2024,True,album,2
+track_1442,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Lies Lies Lies,198068,2024,2024,False,single,1
+track_1443,7GlBOeep6PqTfFi59PTUUN,Chappell Roan,HOT TO GO!,184841,2023,2024,False,album,1
+track_1444,22wbnEMDvgVIAGdFeek6ET,Benson Boone,Slow It Down,161831,2024,2024,False,album,1
+track_1445,1URnnhqYAYcrqrcwql10ft,21 Savage,redrum,270697,2024,2024,True,album,1
+track_1446,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,Houdini,185917,2024,2024,False,album,1
+track_1447,2qoQgPAilErOKCwE2Y8wOG,GloRilla,Yeah Glo!,142702,2024,2024,True,album,1
+track_1448,5p9HO3XC5P3BLxJs5Mtrhm,Djo,End of Beginning,159245,2022,2024,False,album,1
+track_1449,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,Taste,157279,2024,2024,False,album,1
+track_1450,19k8AgwwTSxeaxkOuCQEJs,Jelly Roll,I Am Not Okay,198066,2024,2024,False,album,1
+track_1451,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,LUNCH,179586,2024,2024,False,album,1
+track_1452,08PvCOlef4xdOr20jFSTPd,Flo Milli,Never Lose Me,125901,2024,2024,True,album,1
+track_1453,1RyvyyTE3xzB2ZywiAwp0i,Future,Type Shit,228266,2024,2024,True,album,4
+track_1454,7CvTknweLr9feJtRGrpDBy,FloyyMenor,Gata Only,222000,2024,2024,True,album,2
+track_1455,3bO19AOone0ubCsfDXDtYt,Myles Smith,Stargazing,172533,2024,2024,False,single,1
+track_1456,3DbwFQlvLxRSi2uX8mf81A,Sexyy Red,Get It Sexyy,148551,2024,2024,True,album,1
+track_1457,7tjVFCxJdwT4NdrTmjyjQ6,Muni Long,Made For Me,186090,2024,2024,False,album,1
+track_1458,2EMAnMvWE2eb56ToJVfCWs,Bryson Tiller,Whatever She Wants [BONUS],161342,2024,2024,True,album,1
+track_1459,246dkjvS1zLTtiykXe5h60,Post Malone,Pour Me A Drink (Feat. Blake Shelton),195122,2024,2024,False,album,2
+track_1460,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,"What Was I Made For? (From The Motion Picture ""Barbie"")",222369,2023,2024,False,compilation,1
+track_1461,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,WILDFLOWER,261466,2024,2024,False,album,1
+track_1462,0PCCGZ0wGLizHt2KZ7hhA2,Artemas,i like the way you kiss me,142514,2024,2024,False,album,1
+track_1463,3TVXtAsR1Inumwj472S9r4,Drake,Rich Baby Daddy (feat. Sexyy Red & SZA),319191,2023,2024,True,album,3
+track_1464,1Tie3AZgLQZqYEp8Fv4zOZ,Koe Wetzel,High Road (feat. Jessie Murph),179413,2024,2024,True,album,2
+track_1465,7kplJl06UmldxLKseURAYi,Warren Zeiders,Pretty Little Poison,218260,2023,2024,False,album,1
+track_1466,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,euphoria,383639,2024,2024,True,single,1
+track_1467,718COspgdWOnwOFpJHRZHS,Luke Combs,Where the Wild Things Are,239544,2023,2024,False,album,1
+track_1468,4sCKpwwEsgReZxjtKFm2A0,Tucker Wetmore,Wind Up Missin’ You,166666,2024,2024,True,album,1
+track_1469,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,Everybody (feat. Lil Uzi Vert),180869,2023,2024,True,album,2
+track_1470,3Me35AWHCGqW4sZ7bWWJt1,Xavi,La Diabla,172264,2024,2024,False,album,1
+track_1471,5fi7lIgJGH3RgUpJYcffQ7,4batz,act ii: date @ 8,113684,2024,2024,True,album,1
+track_1472,5QNm7E7RU2m64l6Gliu8Oy,HARDY,TRUCK BED,167534,2023,2024,True,album,1
+track_1473,3win9vGIxFfBRag9S63wwf,Bailey Zimmerman,Where It Ends,179294,2023,2024,False,album,1
+track_1474,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,FTCU,172137,2023,2024,True,album,1
+track_1475,1McMsnEElThX1knmY4oliG,Olivia Rodrigo,vampire,219724,2023,2024,True,album,1
+track_1476,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,"yes, and?",214994,2024,2024,True,album,1
+track_1477,19k8AgwwTSxeaxkOuCQEJs,Jelly Roll,Save Me - with Lainey Wilson,237493,2023,2024,False,album,2
+track_1478,45dkTj5sMRSjrmBSBeiHym,Tate McRae,exes,159400,2023,2024,True,album,1
+track_1479,19k8AgwwTSxeaxkOuCQEJs,Jelly Roll,Need A Favor,197400,2023,2024,False,album,1
+track_1480,4NYMUsIcUUsBHbV9DICa5x,Nate Smith,World on Fire,189986,2023,2024,False,album,1
+track_1481,4NYMUsIcUUsBHbV9DICa5x,Nate Smith,Bulletproof,183919,2024,2024,False,album,1
+track_1482,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,FE!N (feat. Playboi Carti),191700,2023,2024,True,album,2
+track_1483,3TVXtAsR1Inumwj472S9r4,Drake,First Person Shooter (feat. J. Cole),247444,2023,2024,True,album,2
+track_1484,0Z8XVUAOBPM4x12wKnFHEQ,Parker McCollum,Burn It Down,233869,2023,2024,False,album,1
+track_1485,06HL4z0CvFAxyc27GXpf02,Taylor Swift,Down Bad,261228,2024,2024,True,album,1
+track_1486,5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,Flowers,200600,2023,2024,False,album,1
+track_1487,4YLtscXsxbVgi031ovDDdh,Chris Stapleton,White Horse,267893,2023,2024,False,album,1
+track_1488,4zoRNhOhsGX3w8yBAnFSQ8,Paul Russell,Lil Boo Thang,114233,2024,2024,False,single,1
+track_1489,23zg3TcAtWQy7J6upgbUnj,USHER,Good Good,247100,2024,2024,True,album,3
+track_1490,3TVXtAsR1Inumwj472S9r4,Drake,IDGAF (feat. Yeat),260111,2023,2024,True,album,2
+track_1491,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,Dance The Night,176579,2023,2024,False,compilation,1
+track_1492,4q3ewBCX7sLwd24euuV69X,Bad Bunny,MONACO,267194,2023,2024,True,album,1
+track_1493,2hlmm7s2ICUX0LVIhVFlZQ,Gunna,fukumean,125040,2023,2024,True,album,1
+track_1494,63XBtGSEZINSyXylZxEUbv,Victoria Monét,On My Mama,186678,2023,2024,True,single,1
+track_1495,6zLBxLdl60ekBLpawtT63I,Cody Johnson,The Painter,211413,2023,2024,False,single,1
+track_1496,4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,All I Want for Christmas Is You,241562,1994,2024,False,album,1
+track_1497,4cPHsZM98sKzmV26wlwD2W,Brenda Lee,Rockin' Around The Christmas Tree,126266,1964,2024,False,album,1
+track_1498,38EmEgXkgK51MT2tPY0EoC,Bobby Helms,Jingle Bell Rock,130973,1957,2024,False,single,1
+track_1499,5lpH0xAS4fVfLkACg9DAuM,Wham!,Last Christmas,262960,1984,2024,False,single,1
+track_1500,0MHgLfmQdutffmvWe5XBTN,Burl Ives,A Holly Jolly Christmas,135533,1965,2024,False,compilation,1
+track_1501,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Die With A Smile,251667,2025,2025,False,album,2
+track_1502,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,luther (with sza),177598,2024,2025,False,album,2
+track_1503,3y2cIKLjiOlp1Np37WiUdH,Shaboozey,A Bar Song (Tipsy),171291,2024,2025,True,album,1
+track_1504,33qOK5uJ8AR2xuQQAhHump,Teddy Swims,Lose Control,210688,2023,2025,False,album,1
+track_1505,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,BIRDS OF A FEATHER,210373,2024,2025,False,album,1
+track_1506,22wbnEMDvgVIAGdFeek6ET,Benson Boone,Beautiful Things,180304,2024,2025,False,album,1
+track_1507,0fTSzq9jAh4c36UVb4V7CB,Alex Warren,Ordinary,186964,2024,2025,False,album,1
+track_1508,246dkjvS1zLTtiykXe5h60,Post Malone,I Had Some Help (Feat. Morgan Wallen),178205,2024,2025,True,album,2
+track_1509,3eVa5w3URK5duf6eyVDbu9,ROSÉ,APT.,169917,2024,2025,False,album,2
+track_1510,7GlBOeep6PqTfFi59PTUUN,Chappell Roan,Pink Pony Club,258034,2023,2025,False,album,1
+track_1511,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Love Somebody,204828,2025,2025,False,album,1
+track_1512,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,Espresso,175459,2024,2025,True,album,1
+track_1513,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,I'm The Problem,177811,2025,2025,False,album,1
+track_1514,4tuJ0bMpJh08umKkEXKUI5,Gracie Abrams,That’s So True,166300,2024,2025,True,album,1
+track_1515,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,tv off (feat. lefty gunplay),220690,2024,2025,True,album,2
+track_1516,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Timeless (feat Playboi Carti),256000,2025,2025,True,album,2
+track_1517,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,Not Like Us,274192,2024,2025,True,single,1
+track_1518,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Just In Case,166206,2025,2025,False,album,1
+track_1519,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,Taste,157279,2024,2025,False,album,1
+track_1520,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,squabble up,157992,2024,2025,True,album,1
+track_1521,7tYKF4w9nC0nq9CsPZTHyP,SZA,30 For 30 (with Kendrick Lamar),278277,2025,2025,True,album,2
+track_1522,0nnBZ8FXWjG9wZgM2cpfeb,Leon Thomas,MUTT,192933,2024,2025,True,album,1
+track_1523,3y2cIKLjiOlp1Np37WiUdH,Shaboozey,Good News,199209,2025,2025,False,album,1
+track_1524,3TVXtAsR1Inumwj472S9r4,Drake,NOKIA,241023,2025,2025,True,album,1
+track_1525,2yNNYQBChuox9A5Ka93BIn,HUNTR/X,Golden,194607,2025,2025,False,album,5
+track_1526,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,WILDFLOWER,261466,2024,2025,False,album,1
+track_1527,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,What I Want (feat. Tate McRae),184517,2025,2025,False,album,2
+track_1528,67FB4n52MgexGQIG8s0yUH,Lola Young,Messy,284066,2024,2025,True,album,1
+track_1529,3bO19AOone0ubCsfDXDtYt,Myles Smith,Stargazing,172533,2024,2025,False,single,1
+track_1530,5RTLRtXjbXI2lSXc6jxlAz,Ravyn Lenae,Love Me Not,213466,2024,2025,False,album,1
+track_1531,7GlBOeep6PqTfFi59PTUUN,Chappell Roan,"Good Luck, Babe!",218423,2024,2025,False,single,1
+track_1532,2sSGPbdZJkaSE2AbcGOACx,The Marías,No One Noticed,236906,2024,2025,False,album,1
+track_1533,6qxpnaukVayrQn6ViNvu9I,BigXthaPlug,All The Way (feat. Bailey Zimmerman),165000,2025,2025,True,album,2
+track_1534,2FXC3k01G6Gw61bmprjgqS,Hozier,Too Sweet,251424,2024,2025,False,album,1
+track_1535,2QMsj4XJ7ne2hojxt6v5eb,Riley Green,Worst Way,220558,2024,2025,False,album,1
+track_1536,1iCnM8foFssWlPRLfAbIwo,Gigi Perez,Sailor Song,211978,2025,2025,False,album,1
+track_1537,22wbnEMDvgVIAGdFeek6ET,Benson Boone,Sorry I'm Here For Someone Else,156582,2025,2025,False,album,1
+track_1538,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,Manchild,213645,2025,2025,True,album,1
+track_1539,4E2rKHVDssGJm2SCDOMMJB,Doechii,Anxiety,249302,2025,2025,True,album,1
+track_1540,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,I Got Better,204963,2025,2025,False,album,1
+track_1541,4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator","Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",255915,2024,2025,True,album,4
+track_1542,4G9NDjRyZFDlJKMRL8hx3S,sombr,back to friends,199032,2025,2025,False,album,1
+track_1543,4FGPzWzgjURDNT7JQ8pYgH,Zach Top,I Never Lie,224906,2024,2025,False,album,1
+track_1544,4G9NDjRyZFDlJKMRL8hx3S,sombr,undressed,182088,2025,2025,False,album,1
+track_1545,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,Bed Chem,171869,2024,2025,False,album,1
+track_1546,45dkTj5sMRSjrmBSBeiHym,Tate McRae,Sports car,165045,2025,2025,False,album,1
+track_1547,22wbnEMDvgVIAGdFeek6ET,Benson Boone,Mystical Magical,165746,2025,2025,False,album,1
+track_1548,2qoQgPAilErOKCwE2Y8wOG,GloRilla,WHATCHU KNO ABOUT ME (feat. Sexyy Red),149461,2024,2025,True,album,2
+track_1549,08GfvCW09pv2QP4y9sle2a,Sam Barber,Indigo (feat. Avery Anna),286634,2024,2025,False,album,2
+track_1550,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,Please Please Please,186365,2024,2025,True,album,1
+track_1551,4q3ewBCX7sLwd24euuV69X,Bad Bunny,DtMF,237117,2025,2025,True,album,1
+track_1552,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,peekaboo (feat. azchike),155917,2024,2025,True,album,2
+track_1553,2yLzlEFtIS0Q9UkyBZdQA7,Jessie Murph,Blue Strips,147209,2025,2025,False,album,1
+track_1554,0BJ2EjOqcfgFvlZXNKrNbE,Saja Boys,Your Idol,191537,2025,2025,False,album,7
+track_1555,1Tie3AZgLQZqYEp8Fv4zOZ,Koe Wetzel,High Road (feat. Jessie Murph),179413,2024,2025,True,album,2
+track_1556,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,Abracadabra,223398,2025,2025,False,album,1
+track_1557,1oSPZhvZMIrWW5I41kPkkY,Jimin,Who,170887,2024,2025,False,album,1
+track_1558,7HO5fOXE4gh3lzZn64tX2E,Mariah the Scientist,Burning Blue,206027,2025,2025,False,album,1
+track_1559,4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,All I Want for Christmas Is You,241562,1994,2025,False,album,1
+track_1560,1uNFoZAHBGtllmzznpCI3s,Justin Bieber,DAISIES,176453,2025,2025,False,album,1
+track_1561,0BJ2EjOqcfgFvlZXNKrNbE,Saja Boys,Soda Pop,150686,2025,2025,False,album,7
+track_1562,4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator",Like Him (feat. Lola Young),278014,2024,2025,True,album,2
+track_1563,7bXgB6jMjp9ATFy66eO08Z,Chris Brown,Residuals,215178,2024,2025,False,album,1
+track_1564,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Smile,224127,2025,2025,False,album,1
+track_1565,5lpH0xAS4fVfLkACg9DAuM,Wham!,Last Christmas,262960,1984,2025,False,single,1
+track_1566,5Ppie0uPnbnvGBYRwYmlt0,Megan Moroney,Am I Okay?,235002,2024,2025,False,album,1
+track_1567,4cPHsZM98sKzmV26wlwD2W,Brenda Lee,Rockin' Around The Christmas Tree,126266,1964,2025,False,album,1
+track_1568,2yNNYQBChuox9A5Ka93BIn,HUNTR/X,How It’s Done,176059,2025,2025,False,album,5
+track_1569,1E2AEtxaFaJtH0lO7kgNKw,Russell Dickerson,Happen To Me,183615,2025,2025,False,album,1
+track_1570,4q3ewBCX7sLwd24euuV69X,Bad Bunny,BAILE INoLVIDABLE,367725,2025,2025,True,album,1
+track_1571,6BRxQ8cD3eqnrVj6WKDok8,Ella Langley,weren't for the wind,193666,2024,2025,False,album,1
+track_1572,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,I Ain't Comin' Back (feat. Post Malone),175271,2025,2025,False,album,2
+track_1573,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,Cry For Me,224136,2025,2025,True,album,1
+track_1574,33qOK5uJ8AR2xuQQAhHump,Teddy Swims,Bad Dreams,184577,2025,2025,False,album,1
+track_1575,4E2rKHVDssGJm2SCDOMMJB,Doechii,DENIAL IS A RIVER,159586,2024,2025,True,album,1
+track_1576,7tYKF4w9nC0nq9CsPZTHyP,SZA,BMF,180746,2025,2025,True,album,1
+track_1577,4q3ewBCX7sLwd24euuV69X,Bad Bunny,EoO,204768,2025,2025,True,album,1
+track_1578,6zLBxLdl60ekBLpawtT63I,Cody Johnson,I'm Gonna Love You,188106,2024,2025,False,album,2
+track_1579,19k8AgwwTSxeaxkOuCQEJs,Jelly Roll,I Am Not Okay,198066,2024,2025,False,album,1
+track_1580,3win9vGIxFfBRag9S63wwf,Bailey Zimmerman,Backup Plan (feat. Luke Combs),181518,2025,2025,False,album,2
+track_1581,38EmEgXkgK51MT2tPY0EoC,Bobby Helms,Jingle Bell Rock,130973,1957,2025,False,single,1
+track_1582,45dkTj5sMRSjrmBSBeiHym,Tate McRae,Revolving door,180032,2025,2025,True,album,1
+track_1583,2yNNYQBChuox9A5Ka93BIn,HUNTR/X,What It Sounds Like,250268,2025,2025,False,album,5
+track_1584,1bdnGJxkbIIys5Jhk1T74v,Brandon Lake,Hard Fought Hallelujah (with Jelly Roll),316002,2025,2025,False,album,2
+track_1585,2HPaUgqeutzr3jx5a9WyDV,PARTYNEXTDOOR,SOMEBODY LOVES ME,182767,2025,2025,True,album,2
+track_1586,19k8AgwwTSxeaxkOuCQEJs,Jelly Roll,Liar,204933,2024,2025,False,album,1
+track_1587,3l9G1G9MxH6DaRhwLklaf5,Oscar Maydon,Tu Boda,225880,2025,2025,True,album,2
+track_1588,6x2LnllRG5uGarZMsD4iO8,Thomas Rhett,After All The Bars Are Closed,191839,2024,2025,False,album,1
+track_1589,4q3ewBCX7sLwd24euuV69X,Bad Bunny,NUEVAYoL,183685,2025,2025,False,album,1
+track_1590,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,20 Cigarettes,160901,2025,2025,False,album,1
+track_1591,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,RATHER LIE (with The Weeknd),209680,2025,2025,True,album,2
+track_1592,18Z49sdpTYjv4TmBJPHMCb,Rumi,Free,187963,2025,2025,False,album,5
+track_1593,2yNNYQBChuox9A5Ka93BIn,HUNTR/X,Takedown,182016,2025,2025,False,album,5
+track_1594,57LYzLEk2LcFghVwuWbcuS,Summer Walker,Heart Of A Woman,170784,2025,2025,True,album,1
+track_1595,0C4gtx1iHMfuaQ73GKWvtZ,Hudson Westbrook,House Again,203822,2025,2025,False,album,1
+track_1596,4Ga1P7PMIsmqEZqhYZQgDo,Lil Tecca,Dark Thoughts,136991,2025,2025,True,album,1
+track_1597,4Gso3d4CscCijv0lmajZWs,Don Toliver,No Pole,187613,2023,2025,True,album,1
+track_1598,0cGUm45nv7Z6M6qdXYQGTX,Kehlani,Folded,238120,2025,2025,False,single,1
+track_1599,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,Superman,188200,2025,2025,False,album,1
+track_1600,6pV5zH2LzjOUHaAvENdMMa,Neton Vega,Loco,186521,2025,2025,False,album,1

@@ -1,0 +1,10 @@
+venv/
+.env
+.cache
+.cache-*
+__pycache__/
+*.pyc
+.~lock.*#
+Desktop.ini
+Thumbs.db
+.DS_Store
