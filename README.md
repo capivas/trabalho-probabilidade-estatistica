@@ -21,7 +21,7 @@ As músicas de maior sucesso tornaram-se mais curtas e mais frequentemente expl�
 | Duração média | 3,71 min | 3,30 min |
 | Músicas com conteúdo explícito | 33,7% | 45,0% |
 
-- A duração média caiu 24,4 segundos (IC 95%: 20,4 a 28,5 s), com associação moderada entre era e duração (φ = 0,32). O resultado se mantém sem as músicas natalinas.
+- A duração média caiu 24,4 segundos (IC 95%: 20,4 a 28,5 s), com associação moderada entre a era e a duração inferior a 3 minutos (φ = 0,32). O resultado se mantém sem as músicas natalinas.
 - A mudança na duração começou em 2018–2019, antes do recorte adotado.
 - O aumento do conteúdo explícito é significativo, mas a associação é fraca (φ = 0,11).
 - Um classificador Naive Bayes com essas duas características acertou a era de 70,1% das músicas em validação cruzada, contra 62,5% de um classificador de referência.
@@ -128,7 +128,7 @@ Passos:
 | 2012 | [link](https://open.spotify.com/playlist/5fkMnPqY0ilax2ZEAyhvQl) | 2020 | [link](https://open.spotify.com/playlist/6ho6OCypoafwr3HEqbQXpE) |
 | 2013 | [link](https://open.spotify.com/playlist/7kPgVGmUNL8ZPLLXjyxsYJ) | 2021 | [link](https://open.spotify.com/playlist/25vaJELb9hxFqSsZn0YgiN) |
 | 2014 | [link](https://open.spotify.com/playlist/4R0umj6e3u1JY6XD4gZZnt) | 2022 | [link](https://open.spotify.com/playlist/3G3wk1cUcvhQcQkoAuQawZ) |
-| 2015 | [link](https://open.spotify.com/playlist/537lAWR9X40bboU2GhUIaS) | 2023 | [link](https://open.spotify.com/playlist/7E0xrKqCNtVUrKlFN9OmRh) |
+| 2015 | [link](https://open.spotify.com/playlist/01DHv1EhNLmLZOZ7Xft2kd) | 2023 | [link](https://open.spotify.com/playlist/7E0xrKqCNtVUrKlFN9OmRh) |
 | 2016 | [link](https://open.spotify.com/playlist/7yL74sMdtghrje0PngyyeB) | 2024 | [link](https://open.spotify.com/playlist/1YnHrEdgKANonoC6xejEPo) |
 | 2017 | [link](https://open.spotify.com/playlist/2C2mTl6wW8cUnwEl29whXr) | 2025 | [link](https://open.spotify.com/playlist/25dBkFPHERTFYP0e7ue0iL) |
 
